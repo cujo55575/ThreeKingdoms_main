@@ -1,0 +1,92 @@
+{
+    "Cards": [
+        {
+            "Name": "Card1Name",
+            "TextureName": "H1",
+            "RareUp": 1,
+            "Atk": 10,
+            "Def": 1,
+            "IsUsed": false,
+            "PosX": 8.0,
+            "PosY": -43.0,
+            "Scale": 0.75
+        },
+        {
+            "Name": "Card2",
+            "TextureName": "H2",
+            "RareUp": 1,
+            "Atk": 2,
+            "Def": 2,
+            "IsUsed": false,
+            "PosX": 1.25,
+            "PosY": -56.0,
+            "Scale": 0.7300000190734863
+        },
+        {
+            "Name": "Card3",
+            "TextureName": "H3",
+            "RareUp": 1,
+            "Atk": 3,
+            "Def": 3,
+            "IsUsed": false,
+            "PosX": 5.0,
+            "PosY": -34.0,
+            "Scale": 0.75
+        },
+        {
+            "Name": "Card4",
+            "TextureName": "H4",
+            "RareUp": 1,
+            "Atk": 4,
+            "Def": 4,
+            "IsUsed": false,
+            "PosX": 5.0,
+            "PosY": -35.0,
+            "Scale": 0.75
+        },
+        {
+            "Name": "Card5",
+            "TextureName": "H5",
+            "RareUp": 1,
+            "Atk": 5,
+            "Def": 5,
+            "IsUsed": false,
+            "PosX": 5.0,
+            "PosY": -35.0,
+            "Scale": 0.75
+        },
+        {
+            "Name": "Card6",
+            "TextureName": "H6",
+            "RareUp": 1,
+            "Atk": 6,
+            "Def": 6,
+            "IsUsed": false,
+            "PosX": 5.0,
+            "PosY": -37.0,
+            "Scale": 0.75
+        },
+        {
+            "Name": "Card7",
+            "TextureName": "H7",
+            "RareUp": 1,
+            "Atk": 7,
+            "Def": 7,
+            "IsUsed": false,
+            "PosX": -12.5,
+            "PosY": -38.5,
+            "Scale": 0.8999999761581421
+        },
+        {
+            "Name": "Card8",
+            "TextureName": "H8",
+            "RareUp": 1,
+            "Atk": 8,
+            "Def": 8,
+            "IsUsed": false,
+            "PosX": 0.0,
+            "PosY": -54.0,
+            "Scale": 0.7300000190734863
+        }
+    ]
+}

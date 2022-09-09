@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "390960098192",
+    "firebase_url": "https://kingdoms-f707c.firebaseio.com",
+    "project_id": "kingdoms-f707c",
+    "storage_bucket": "kingdoms-f707c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390960098192:android:8b55f81ed37d9ac6536115",
+        "android_client_info": {
+          "package_name": "com.misostudio.threekingdoms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390960098192-p3beqb9hgceq7lqramal8mu1c6o6isqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACe5V3uLdeSHi8x8CfRaYopD8Ei-xAjHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390960098192-p3beqb9hgceq7lqramal8mu1c6o6isqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

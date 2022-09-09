@@ -1,0 +1,498 @@
+fileFormatVersion: 2
+guid: 1197df69fd314ad4b8e7d386b4231ccf
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: AXE
+    100002: Ctrl_ChestEndEffector
+    100004: Ctrl_ChestOriginEffector
+    100006: Ctrl_Head
+    100008: Ctrl_HeadEffector
+    100010: Ctrl_Hips
+    100012: Ctrl_HipsEffector
+    100014: Ctrl_LeftAnkleEffector
+    100016: Ctrl_LeftArm
+    100018: Ctrl_LeftElbowEffector
+    100020: Ctrl_LeftFoot
+    100022: Ctrl_LeftFootEffector
+    100024: Ctrl_LeftForeArm
+    100026: Ctrl_LeftHand
+    100028: Ctrl_LeftHipEffector
+    100030: Ctrl_LeftKneeEffector
+    100032: Ctrl_LeftLeg
+    100034: Ctrl_LeftShoulder
+    100036: Ctrl_LeftShoulderEffector
+    100038: Ctrl_LeftToeBase
+    100040: Ctrl_LeftUpLeg
+    100042: Ctrl_LeftWristEffector
+    100044: Ctrl_Neck
+    100046: Ctrl_Reference
+    100048: Ctrl_RightAnkleEffector
+    100050: Ctrl_RightArm
+    100052: Ctrl_RightElbowEffector
+    100054: Ctrl_RightFoot
+    100056: Ctrl_RightFootEffector
+    100058: Ctrl_RightForeArm
+    100060: Ctrl_RightHand
+    100062: Ctrl_RightHipEffector
+    100064: Ctrl_RightKneeEffector
+    100066: Ctrl_RightLeg
+    100068: Ctrl_RightShoulder
+    100070: Ctrl_RightShoulderEffector
+    100072: Ctrl_RightToeBase
+    100074: Ctrl_RightUpLeg
+    100076: Ctrl_RightWristEffector
+    100078: Ctrl_Spine
+    100080: Ctrl_Spine1
+    100082: Ctrl_Spine2
+    100084: FuryForce 1
+    100086: //RootNode
+    100088: Guides
+    100090: Head
+    100092: Head 1
+    100094: Hero
+    100096: Hip_Armor
+    100098: Hips
+    100100: Hips 1
+    100102: L_Armor_01
+    100104: L_Armor_02
+    100106: L_F_SK_01
+    100108: L_F_SK_02
+    100110: L_F_SK_03
+    100112: L_F_SK_04
+    100114: L_F_SK_05
+    100116: L_F_SK_06
+    100118: L_S_SK_01
+    100120: L_S_SK_02
+    100122: L_S_SK_03
+    100124: L_S_SK_04
+    100126: L_S_SK_05
+    100128: L_S_SK_06
+    100130: L_S_SK_07
+    100132: L_S_SK_08
+    100134: L_S_SK_09
+    100136: L_S_SK_10
+    100138: L_S_SK_11
+    100140: L_S_SK_12
+    100142: L_S_SK_13
+    100144: L_S_SK_14
+    100146: L_S_SK_15
+    100148: L_S_SK_16
+    100150: L_S_SK_17
+    100152: L_S_SK_18
+    100154: L_S_SK_19
+    100156: L_S_SK_20
+    100158: L_S_SK_21
+    100160: L_S_SK_22
+    100162: L_S_SK_23
+    100164: L_S_SK_24
+    100166: LeftArm
+    100168: LeftArm 1
+    100170: LeftFoot
+    100172: LeftFoot 1
+    100174: LeftForeArm
+    100176: LeftForeArm 1
+    100178: LeftHand
+    100180: LeftHand 1
+    100182: LeftLeg
+    100184: LeftLeg 1
+    100186: LeftShoulder
+    100188: LeftShoulder 1
+    100190: LeftToeBase
+    100192: LeftToeBase 1
+    100194: LeftUpLeg
+    100196: LeftUpLeg 1
+    100198: Leg_Armor
+    100200: M_F_SK_01
+    100202: M_F_SK_02
+    100204: M_F_SK_03
+    100206: Neck
+    100208: Neck 1
+    100210: R_Armor_01
+    100212: R_Armor_02
+    100214: R_F_SK_01
+    100216: R_F_SK_02
+    100218: R_F_SK_03
+    100220: R_F_SK_04
+    100222: R_F_SK_05
+    100224: R_F_SK_06
+    100226: R_S_SK_01
+    100228: R_S_SK_02
+    100230: R_S_SK_03
+    100232: R_S_SK_04
+    100234: R_S_SK_05
+    100236: R_S_SK_06
+    100238: R_S_SK_07
+    100240: R_S_SK_08
+    100242: R_S_SK_09
+    100244: R_S_SK_10
+    100246: R_S_SK_11
+    100248: R_S_SK_12
+    100250: R_S_SK_13
+    100252: R_S_SK_14
+    100254: R_S_SK_15
+    100256: R_S_SK_16
+    100258: R_S_SK_17
+    100260: R_S_SK_18
+    100262: R_S_SK_19
+    100264: R_S_SK_20
+    100266: R_S_SK_21
+    100268: R_S_SK_22
+    100270: R_S_SK_23
+    100272: R_S_SK_24
+    100274: Reference
+    100276: Reference 1
+    100278: RightArm
+    100280: RightArm 1
+    100282: RightFoot
+    100284: RightFoot 1
+    100286: RightForeArm
+    100288: RightForeArm 1
+    100290: RightHand
+    100292: RightHand 1
+    100294: RightLeg
+    100296: RightLeg 1
+    100298: RightShoulder
+    100300: RightShoulder 1
+    100302: RightToeBase
+    100304: RightToeBase 1
+    100306: RightUpLeg
+    100308: RightUpLeg 1
+    100310: Shoulder_Armor
+    100312: Spine
+    100314: Spine 1
+    100316: Spine1
+    100318: Spine1 1
+    100320: Spine2
+    100322: Spine2 1
+    100324: transform1
+    100326: transform10
+    100328: transform11
+    100330: transform12
+    100332: transform13
+    100334: transform14
+    100336: transform15
+    100338: transform16
+    100340: transform17
+    100342: transform18
+    100344: transform19
+    100346: transform2
+    100348: transform3
+    100350: transform4
+    100352: transform5
+    100354: transform6
+    100356: transform7
+    100358: transform8
+    100360: transform9
+    100362: Weapon_Ctrl
+    400000: AXE
+    400002: Ctrl_ChestEndEffector
+    400004: Ctrl_ChestOriginEffector
+    400006: Ctrl_Head
+    400008: Ctrl_HeadEffector
+    400010: Ctrl_Hips
+    400012: Ctrl_HipsEffector
+    400014: Ctrl_LeftAnkleEffector
+    400016: Ctrl_LeftArm
+    400018: Ctrl_LeftElbowEffector
+    400020: Ctrl_LeftFoot
+    400022: Ctrl_LeftFootEffector
+    400024: Ctrl_LeftForeArm
+    400026: Ctrl_LeftHand
+    400028: Ctrl_LeftHipEffector
+    400030: Ctrl_LeftKneeEffector
+    400032: Ctrl_LeftLeg
+    400034: Ctrl_LeftShoulder
+    400036: Ctrl_LeftShoulderEffector
+    400038: Ctrl_LeftToeBase
+    400040: Ctrl_LeftUpLeg
+    400042: Ctrl_LeftWristEffector
+    400044: Ctrl_Neck
+    400046: Ctrl_Reference
+    400048: Ctrl_RightAnkleEffector
+    400050: Ctrl_RightArm
+    400052: Ctrl_RightElbowEffector
+    400054: Ctrl_RightFoot
+    400056: Ctrl_RightFootEffector
+    400058: Ctrl_RightForeArm
+    400060: Ctrl_RightHand
+    400062: Ctrl_RightHipEffector
+    400064: Ctrl_RightKneeEffector
+    400066: Ctrl_RightLeg
+    400068: Ctrl_RightShoulder
+    400070: Ctrl_RightShoulderEffector
+    400072: Ctrl_RightToeBase
+    400074: Ctrl_RightUpLeg
+    400076: Ctrl_RightWristEffector
+    400078: Ctrl_Spine
+    400080: Ctrl_Spine1
+    400082: Ctrl_Spine2
+    400084: FuryForce 1
+    400086: //RootNode
+    400088: Guides
+    400090: Head
+    400092: Head 1
+    400094: Hero
+    400096: Hip_Armor
+    400098: Hips
+    400100: Hips 1
+    400102: L_Armor_01
+    400104: L_Armor_02
+    400106: L_F_SK_01
+    400108: L_F_SK_02
+    400110: L_F_SK_03
+    400112: L_F_SK_04
+    400114: L_F_SK_05
+    400116: L_F_SK_06
+    400118: L_S_SK_01
+    400120: L_S_SK_02
+    400122: L_S_SK_03
+    400124: L_S_SK_04
+    400126: L_S_SK_05
+    400128: L_S_SK_06
+    400130: L_S_SK_07
+    400132: L_S_SK_08
+    400134: L_S_SK_09
+    400136: L_S_SK_10
+    400138: L_S_SK_11
+    400140: L_S_SK_12
+    400142: L_S_SK_13
+    400144: L_S_SK_14
+    400146: L_S_SK_15
+    400148: L_S_SK_16
+    400150: L_S_SK_17
+    400152: L_S_SK_18
+    400154: L_S_SK_19
+    400156: L_S_SK_20
+    400158: L_S_SK_21
+    400160: L_S_SK_22
+    400162: L_S_SK_23
+    400164: L_S_SK_24
+    400166: LeftArm
+    400168: LeftArm 1
+    400170: LeftFoot
+    400172: LeftFoot 1
+    400174: LeftForeArm
+    400176: LeftForeArm 1
+    400178: LeftHand
+    400180: LeftHand 1
+    400182: LeftLeg
+    400184: LeftLeg 1
+    400186: LeftShoulder
+    400188: LeftShoulder 1
+    400190: LeftToeBase
+    400192: LeftToeBase 1
+    400194: LeftUpLeg
+    400196: LeftUpLeg 1
+    400198: Leg_Armor
+    400200: M_F_SK_01
+    400202: M_F_SK_02
+    400204: M_F_SK_03
+    400206: Neck
+    400208: Neck 1
+    400210: R_Armor_01
+    400212: R_Armor_02
+    400214: R_F_SK_01
+    400216: R_F_SK_02
+    400218: R_F_SK_03
+    400220: R_F_SK_04
+    400222: R_F_SK_05
+    400224: R_F_SK_06
+    400226: R_S_SK_01
+    400228: R_S_SK_02
+    400230: R_S_SK_03
+    400232: R_S_SK_04
+    400234: R_S_SK_05
+    400236: R_S_SK_06
+    400238: R_S_SK_07
+    400240: R_S_SK_08
+    400242: R_S_SK_09
+    400244: R_S_SK_10
+    400246: R_S_SK_11
+    400248: R_S_SK_12
+    400250: R_S_SK_13
+    400252: R_S_SK_14
+    400254: R_S_SK_15
+    400256: R_S_SK_16
+    400258: R_S_SK_17
+    400260: R_S_SK_18
+    400262: R_S_SK_19
+    400264: R_S_SK_20
+    400266: R_S_SK_21
+    400268: R_S_SK_22
+    400270: R_S_SK_23
+    400272: R_S_SK_24
+    400274: Reference
+    400276: Reference 1
+    400278: RightArm
+    400280: RightArm 1
+    400282: RightFoot
+    400284: RightFoot 1
+    400286: RightForeArm
+    400288: RightForeArm 1
+    400290: RightHand
+    400292: RightHand 1
+    400294: RightLeg
+    400296: RightLeg 1
+    400298: RightShoulder
+    400300: RightShoulder 1
+    400302: RightToeBase
+    400304: RightToeBase 1
+    400306: RightUpLeg
+    400308: RightUpLeg 1
+    400310: Shoulder_Armor
+    400312: Spine
+    400314: Spine 1
+    400316: Spine1
+    400318: Spine1 1
+    400320: Spine2
+    400322: Spine2 1
+    400324: transform1
+    400326: transform10
+    400328: transform11
+    400330: transform12
+    400332: transform13
+    400334: transform14
+    400336: transform15
+    400338: transform16
+    400340: transform17
+    400342: transform18
+    400344: transform19
+    400346: transform2
+    400348: transform3
+    400350: transform4
+    400352: transform5
+    400354: transform6
+    400356: transform7
+    400358: transform8
+    400360: transform9
+    400362: Weapon_Ctrl
+    2100000: FuryForce_Tex
+    2100002: Weapon_Tex
+    2300000: AXE
+    3300000: AXE
+    4300000: Leg_Armor
+    4300002: Hip_Armor
+    4300004: Hero
+    4300006: Shoulder_Armor
+    4300008: AXE
+    7400000: FuryForce_Die
+    9500000: //RootNode
+    13700000: Hero
+    13700002: Hip_Armor
+    13700004: Leg_Armor
+    13700006: Shoulder_Armor
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: FuryForce_Die
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

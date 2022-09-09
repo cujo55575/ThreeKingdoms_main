@@ -1,0 +1,42 @@
+Example Procedure for Importing new Army Named "SwordMan"
+
+1. Make new folder under Assets/3KingdomResources/ named as "SwordMan"
+2. Make 4 new folders under Assets/3KingdomResources/SwordMan 1.  Animation 2.Materials 3. Model 4. Texture
+	2.1 Under Animation Folder, create new animator override controller named "SwordMan".
+	2.2 Import Model Prefabs to Model folder from Artist's Model folder.
+3. Open SwordMan animator override controller > Controller, Choose FootmanAnimator.
+4. Open Assets/3KingdomResources/SwordMan/Model, change name of each prefab according to naming standard and animation (SwordMan_Attack, SwordMan_Die, SowrdMan_Idle, SowrdMan_Run) etc.
+	4.1 Change name of animation clip in each prefab as the same name as parent prefab.
+	4.2 Check LoopTime Checkbox in animation clips except Die animation.
+5. Fill animations in animator override controller under Assets/3KingdomResources/SwordMan/Animation/BowRiderAnimator override controller.
+6. Put a similar idle model from Assets/Resources/Prefab/Prefabs/"SimilarModel" (Archer if Archer) to scene.
+	7.1 Put the Model Prefab from Assets/3KingdomResources/SwordMan/Model/SwordMan_Idle to scene
+7. Change the scale of SowrdMan_Idle to 10.
+8. Import textures form Artists' folder to Assets/3KingdomResources/SwordMan/Texture folder.
+9. Create materials from given texture.(Mobile/Bumped Diffuse shader).
+10. Use material in models.
+11. Fill animator in model in the scene with SwordMan Animator override controller from Assets/3KingdomResources/SwordMan/Animation.
+12. Make sure all animations works in Animation scene.
+13. On the insepctor windows, Copy components from "SimilarPrefab" to SwordMan prefab.
+14. If archer => Copy Animation Trigger script also.
+15. If archer, change sfx name in unit script to Ms00009. 
+	15.1 In Animation trigger script, put shoot point to arrow spawning point in model.
+16. In archer, add shoot event in animator where arrow start respawn.
+	16.1 In SwordMan_Attack Animation, play the animation. Pause at the time when arrow should start spawn. Add an Events from Events. Name 	at as exactly as "Shoot".
+17. Change the name of the Prefab to SwordMan_Idle to SwordMan.
+18. Make the SwordMan GameObject as Prefab with "Original Prefab" mode under Assets/Resources/Prefab/Prefabs.
+
+19. Under Assets/Resources/Prefab/Prefabs/Leader Copy similar prefab. change name to "SwordManLeader".
+19. In Formatter script of the child GameObject of "SwordManLeader" , Change the "Unit" variable to Assets/Resources/Prefab/Prefabs/SwordMan model.
+	19.1 Apply All the Parent BowRiderLeader Object.
+
+20. Open Battle scene.
+	20.1 In Heroplacement manager script, In Variable "Armies" add SwordManLeader prefab of new model.
+21. In E_ArmyType of Enum.cs, Add new enum with the name "SwordMan".
+22. In heroplacement manager, Armies, index should be equal to enum index of army type.
+
+23. Open Assets/Resources/Prefab/ChangeArmyTexture folder and Put the texture to it with the same name.
+24. Open Assets/Resources/Prefab and put similar prefab to scene.
+25. Open the model imported under Assets/Resources/Prefab/Prefabs to scene.
+26. Remove everythinge else. left Animator, Boxcollider and change layter to 3DUI.
+27. Create new prefabs from it.

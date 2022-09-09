@@ -1,0 +1,1214 @@
+fileFormatVersion: 2
+guid: f9793af225c85d7419adeca776db8655
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Arrow
+    100002: Arrow_Box
+    100004: Arrow_Box1
+    100006: arrow_box_ctrl
+    100008: arrow_box_ctrl1
+    100010: arrow_box_J
+    100012: arrow_box_J1
+    100014: arrow_J
+    100016: //RootNode
+    100018: body
+    100020: Bow
+    100022: Bow_Box
+    100024: Bow_Box1
+    100026: bow_box_ctrl
+    100028: bow_ctrl
+    100030: bow_down_ctrl
+    100032: bow_down_ik
+    100034: bow_down_J1
+    100036: bow_down_J10
+    100038: bow_down_J2
+    100040: bow_down_J3
+    100042: bow_down_J4
+    100044: bow_down_J5
+    100046: bow_down_J6
+    100048: bow_down_J7
+    100050: bow_down_J8
+    100052: bow_down_J9
+    100054: bow_J
+    100056: bow_M_J
+    100058: bow_up_ctrl
+    100060: bow_up_ik
+    100062: bow_up_J1
+    100064: bow_up_J10
+    100066: bow_up_J2
+    100068: bow_up_J3
+    100070: bow_up_J4
+    100072: bow_up_J5
+    100074: bow_up_J6
+    100076: bow_up_J7
+    100078: bow_up_J8
+    100080: bow_up_J9
+    100082: bowbox1_ctrl
+    100084: bowbox1_J
+    100086: Ctrl_ChestEndEffector
+    100088: Ctrl_ChestOriginEffector
+    100090: Ctrl_Head
+    100092: Ctrl_HeadEffector
+    100094: Ctrl_Hips
+    100096: Ctrl_HipsEffector
+    100098: Ctrl_LeftAnkleEffector
+    100100: Ctrl_LeftArm
+    100102: Ctrl_LeftElbowEffector
+    100104: Ctrl_LeftFoot
+    100106: Ctrl_LeftFootEffector
+    100108: Ctrl_LeftForeArm
+    100110: Ctrl_LeftHand
+    100112: Ctrl_LeftHipEffector
+    100114: Ctrl_LeftKneeEffector
+    100116: Ctrl_LeftLeg
+    100118: Ctrl_LeftShoulder
+    100120: Ctrl_LeftShoulderEffector
+    100122: Ctrl_LeftToeBase
+    100124: Ctrl_LeftUpLeg
+    100126: Ctrl_LeftWristEffector
+    100128: Ctrl_Neck
+    100130: Ctrl_Reference
+    100132: Ctrl_RightAnkleEffector
+    100134: Ctrl_RightArm
+    100136: Ctrl_RightElbowEffector
+    100138: Ctrl_RightFoot
+    100140: Ctrl_RightFootEffector
+    100142: Ctrl_RightForeArm
+    100144: Ctrl_RightHand
+    100146: Ctrl_RightHipEffector
+    100148: Ctrl_RightKneeEffector
+    100150: Ctrl_RightLeg
+    100152: Ctrl_RightShoulder
+    100154: Ctrl_RightShoulderEffector
+    100156: Ctrl_RightToeBase
+    100158: Ctrl_RightUpLeg
+    100160: Ctrl_RightWristEffector
+    100162: Ctrl_Spine
+    100164: Ctrl_Spine1
+    100166: Ctrl_Spine2
+    100168: Guides
+    100170: Hat_Ctrl
+    100172: Hat_Ik
+    100174: Hat_J_01
+    100176: Hat_J_010
+    100178: Hat_J_011
+    100180: Hat_J_012
+    100182: Hat_J_013
+    100184: Hat_J_014
+    100186: Hat_J_02
+    100188: Hat_J_03
+    100190: Hat_J_04
+    100192: Hat_J_05
+    100194: Hat_J_06
+    100196: Hat_J_07
+    100198: Hat_J_08
+    100200: Hat_J_09
+    100202: Head
+    100204: Head 1
+    100206: Head 2
+    100208: Head_acc
+    100210: head_acc1
+    100212: head_acc1 1
+    100214: head_acc2
+    100216: head_acc2 1
+    100218: head_acc3
+    100220: head_acc3 1
+    100222: head_acc4
+    100224: head_acc4 1
+    100226: head_acc5
+    100228: head_acc5 1
+    100230: head_acc6
+    100232: head_acc6 1
+    100234: head_acc7
+    100236: head_acc7 1
+    100238: Head_Ctrl
+    100240: Hip
+    100242: hip_ctrl
+    100244: Hips
+    100246: Hips 1
+    100248: Horse
+    100250: Horse_body
+    100252: Horse_Main_Ctrl
+    100254: joint1
+    100256: joint14
+    100258: joint2
+    100260: joint2 1
+    100262: joint2 2
+    100264: joint2 3
+    100266: joint21
+    100268: joint3
+    100270: joint3 1
+    100272: joint3 2
+    100274: joint3 3
+    100276: joint4
+    100278: joint4 1
+    100280: joint4 2
+    100282: joint4 3
+    100284: joint5
+    100286: joint5 1
+    100288: joint5 2
+    100290: joint5 3
+    100292: joint6
+    100294: joint6 1
+    100296: joint6 2
+    100298: joint6 3
+    100300: joint7
+    100302: kneel_ctrl
+    100304: kneel_ctrl1
+    100306: kneel_ctrl2
+    100308: kneel_ctrl3
+    100310: L_acc_01
+    100312: L_acc_02
+    100314: L_acc_03
+    100316: L_acc_04
+    100318: L_acc_05
+    100320: L_acc_ctrl_01
+    100322: L_acc_ctrl_02
+    100324: L_acc_ctrl_03
+    100326: L_acc_ctrl_04
+    100328: L_acc_ctrl_05
+    100330: L_back_femur_ctrl
+    100332: L_back_foot
+    100334: L_back_foot_ctrl
+    100336: L_back_leg
+    100338: L_back_leg_ik
+    100340: L_back_toebase
+    100342: L_back_toebase1
+    100344: L_back_upleg
+    100346: L_ear
+    100348: L_ear1
+    100350: L_ear_Ctrl
+    100352: L_femur
+    100354: L_foot1
+    100356: L_foot2
+    100358: L_foot3
+    100360: L_front_foot
+    100362: L_front_foot_ctrl
+    100364: L_front_leg
+    100366: L_front_leg_ik
+    100368: L_front_orient_ctrl
+    100370: L_front_orient_ctrl 1
+    100372: L_front_shoulder_ctrl
+    100374: L_front_toebase
+    100376: L_front_toebase1
+    100378: L_front_upleg
+    100380: L_g_acc1_ctrl1
+    100382: L_g_acc1_ctrl2
+    100384: L_g_acc1_ctrl3
+    100386: L_g_acc1_ctrl4
+    100388: L_g_acc1_ctrl5
+    100390: L_g_acc1_rope_ctrl
+    100392: L_g_acc2_ctrl1
+    100394: L_g_acc2_ctrl2
+    100396: L_g_acc2_ctrl3
+    100398: L_g_acc2_ctrl4
+    100400: L_g_acc2_ctrl5
+    100402: L_g_acc2_rope_ctrl1
+    100404: L_head_acc1
+    100406: L_head_acc2
+    100408: L_head_acc3
+    100410: L_head_acc4
+    100412: L_head_acc5
+    100414: L_head_acc6
+    100416: L_head_acc7
+    100418: L_rein_ctrl
+    100420: L_shoulder
+    100422: L_shoulder_acc1
+    100424: L_shoulder_acc2
+    100426: L_shoulder_acc3
+    100428: L_shoulder_acc4
+    100430: L_shoulder_acc5
+    100432: L_shoulder_acc6
+    100434: L_shoulder_acc7
+    100436: L_Shoulder_Armor_J_01
+    100438: L_Shoulder_Armor_J_02
+    100440: L_Shoulder_Armor_J_03
+    100442: L_stirrup_ctrl
+    100444: LeftArm
+    100446: LeftArm 1
+    100448: LeftFoot
+    100450: LeftFoot 1
+    100452: LeftForeArm
+    100454: LeftForeArm 1
+    100456: LeftHand
+    100458: LeftHand 1
+    100460: LeftLeg
+    100462: LeftLeg 1
+    100464: LeftShoulder
+    100466: LeftShoulder 1
+    100468: LeftToeBase
+    100470: LeftToeBase 1
+    100472: LeftUpLeg
+    100474: LeftUpLeg 1
+    100476: m_neck_acc1
+    100478: m_neck_acc10
+    100480: m_neck_acc11
+    100482: m_neck_acc12
+    100484: m_neck_acc13
+    100486: m_neck_acc2
+    100488: m_neck_acc3
+    100490: m_neck_acc4
+    100492: m_neck_acc5
+    100494: m_neck_acc6
+    100496: m_neck_acc7
+    100498: m_neck_acc8
+    100500: m_neck_acc9
+    100502: M_shoulder_acc_ctrl1
+    100504: M_shoulder_acc_ctrl10
+    100506: M_shoulder_acc_ctrl11
+    100508: M_shoulder_acc_ctrl12
+    100510: M_shoulder_acc_ctrl13
+    100512: M_shoulder_acc_ctrl2
+    100514: M_shoulder_acc_ctrl3
+    100516: M_shoulder_acc_ctrl4
+    100518: M_shoulder_acc_ctrl5
+    100520: M_shoulder_acc_ctrl6
+    100522: M_shoulder_acc_ctrl7
+    100524: M_shoulder_acc_ctrl8
+    100526: M_shoulder_acc_ctrl9
+    100528: Neck
+    100530: Neck 1
+    100532: Neck 2
+    100534: Neck_1
+    100536: Neck_2
+    100538: Neck_acc1
+    100540: neck_acc1
+    100542: neck_acc10
+    100544: neck_acc11
+    100546: neck_acc12
+    100548: neck_acc13
+    100550: neck_acc14
+    100552: Neck_acc2
+    100554: neck_acc2
+    100556: neck_acc3
+    100558: neck_acc4
+    100560: neck_acc5
+    100562: neck_acc6
+    100564: neck_acc7
+    100566: neck_acc8
+    100568: neck_acc9
+    100570: neck_ctrl1
+    100572: neck_ctrl2
+    100574: nurbsCircle1
+    100576: R_acc_01
+    100578: R_acc_02
+    100580: R_acc_03
+    100582: R_acc_04
+    100584: R_acc_05
+    100586: R_acc_ctrl_01
+    100588: R_acc_ctrl_02
+    100590: R_acc_ctrl_03
+    100592: R_acc_ctrl_04
+    100594: R_acc_ctrl_05
+    100596: R_back_femur_ctrl
+    100598: R_back_foot
+    100600: R_back_foot_ctrl
+    100602: R_back_leg
+    100604: R_back_leg_ik
+    100606: R_back_toebase
+    100608: R_back_toebase1
+    100610: R_back_upleg
+    100612: R_ear
+    100614: R_ear1
+    100616: R_ear_ctrl
+    100618: R_femur
+    100620: R_foot1
+    100622: R_foot2
+    100624: R_foot3
+    100626: R_front_foot
+    100628: R_front_foot_ctrl
+    100630: R_front_leg
+    100632: R_front_leg_ik
+    100634: R_front_orient_ctrl
+    100636: R_front_orient_ctrl 1
+    100638: R_front_shoulder_ctrl
+    100640: R_front_toebase
+    100642: R_front_toebase1
+    100644: R_front_upleg
+    100646: R_g_acc1_ctrl1
+    100648: R_g_acc1_ctrl2
+    100650: R_g_acc1_ctrl3
+    100652: R_g_acc1_ctrl4
+    100654: R_g_acc1_ctrl5
+    100656: R_g_acc1_rope_ctrl
+    100658: R_g_acc2_ctrl1
+    100660: R_g_acc2_ctrl2
+    100662: R_g_acc2_ctrl3
+    100664: R_g_acc2_ctrl4
+    100666: R_g_acc2_ctrl5
+    100668: R_g_acc2_rope_ctrl1
+    100670: R_head_acc1
+    100672: R_head_acc2
+    100674: R_head_acc3
+    100676: R_head_acc4
+    100678: R_head_acc5
+    100680: R_head_acc6
+    100682: R_head_acc7
+    100684: R_rein_ctrl
+    100686: R_shoulder
+    100688: R_shoulder_acc1
+    100690: R_shoulder_acc2
+    100692: R_shoulder_acc3
+    100694: R_shoulder_acc4
+    100696: R_shoulder_acc5
+    100698: R_shoulder_acc6
+    100700: R_shoulder_acc7
+    100702: R_Shoulder_Armor_J_01
+    100704: R_Shoulder_Armor_J_02
+    100706: R_Shoulder_Armor_J_03
+    100708: R_stirrup_ctrl
+    100710: Reference
+    100712: Reference 1
+    100714: rein1
+    100716: rein17
+    100718: rein2
+    100720: rein2 1
+    100722: rein3
+    100724: rein3 1
+    100726: rein4
+    100728: rein4 1
+    100730: rein5
+    100732: rein5 1
+    100734: rein6
+    100736: rein6 1
+    100738: rein7
+    100740: rein7 1
+    100742: rein8
+    100744: rein8 1
+    100746: rein_ctrl
+    100748: reins
+    100750: RightArm
+    100752: RightArm 1
+    100754: RightFoot
+    100756: RightFoot 1
+    100758: RightForeArm
+    100760: RightForeArm 1
+    100762: RightHand
+    100764: RightHand 1
+    100766: RightLeg
+    100768: RightLeg 1
+    100770: RightShoulder
+    100772: RightShoulder 1
+    100774: RightToeBase
+    100776: RightToeBase 1
+    100778: RightUpLeg
+    100780: RightUpLeg 1
+    100782: saddle_acc
+    100784: ScimitarRider
+    100786: Shoulder_Armor
+    100788: skirt
+    100790: skirt_J_01
+    100792: skirt_J_02
+    100794: skirt_J_03
+    100796: skirt_J_04
+    100798: skirt_J_05
+    100800: skirt_J_06
+    100802: skirt_J_07
+    100804: skirt_J_08
+    100806: skirt_J_09
+    100808: skirt_J_10
+    100810: skirt_J_11
+    100812: skirt_J_12
+    100814: skirt_J_13
+    100816: skirt_J_14
+    100818: skirt_J_15
+    100820: skirt_J_16
+    100822: skirt_J_17
+    100824: skirt_J_18
+    100826: skirt_J_19
+    100828: skirt_J_20
+    100830: skirt_J_21
+    100832: skirt_J_22
+    100834: skirt_J_23
+    100836: skirt_J_24
+    100838: skirt_J_25
+    100840: skirt_J_26
+    100842: skirt_J_27
+    100844: skirt_J_28
+    100846: skirt_J_29
+    100848: skirt_J_30
+    100850: skirt_J_31
+    100852: skirt_J_32
+    100854: skirt_J_33
+    100856: skirt_J_34
+    100858: skirt_J_35
+    100860: skirt_JJ_01
+    100862: skirt_JJ_010
+    100864: skirt_JJ_011
+    100866: skirt_JJ_012
+    100868: skirt_JJ_013
+    100870: skirt_JJ_06
+    100872: skirt_JJ_07
+    100874: skirt_JJ_08
+    100876: skirt_JJ_09
+    100878: skirt_JJ_10
+    100880: skirt_JJ_11
+    100882: skirt_JJ_12
+    100884: skirt_JJ_13
+    100886: skirt_JJ_14
+    100888: skirt_JJ_15
+    100890: skirt_JJ_16
+    100892: skirt_JJ_17
+    100894: skirt_JJ_18
+    100896: skirt_JJ_19
+    100898: skirt_JJ_20
+    100900: skirt_JJ_21
+    100902: skirt_JJ_22
+    100904: skirt_JJ_23
+    100906: skirt_JJ_24
+    100908: skirt_JJ_25
+    100910: skirt_JJ_26
+    100912: skirt_JJ_27
+    100914: skirt_JJ_28
+    100916: skirt_JJ_29
+    100918: skirt_JJ_30
+    100920: skirt_JJ_31
+    100922: skirt_JJ_32
+    100924: skirt_JJ_33
+    100926: skirt_JJ_34
+    100928: skirt_JJ_35
+    100930: Skirt_M_J_01
+    100932: Skirt_M_J_02
+    100934: Skirt_M_J_03
+    100936: Skirt_M_J_04
+    100938: Skirt_M_J_05
+    100940: Spear
+    100942: spear_ctrl
+    100944: spear_J_01
+    100946: spear_J_02
+    100948: Spine
+    100950: Spine 1
+    100952: Spine 2
+    100954: Spine1
+    100956: Spine1 1
+    100958: Spine1 2
+    100960: spine1_ctrl
+    100962: Spine2
+    100964: Spine2 1
+    100966: Spine2 2
+    100968: spine2_ctrl
+    100970: Spine3
+    100972: spine_ctrl
+    100974: stirrup
+    100976: string_ctrl
+    100978: String_J
+    100980: tail
+    100982: tail_1
+    100984: tail_2
+    100986: tail_3
+    100988: tail_4
+    100990: tail_5
+    100992: tail_6
+    100994: tail_7
+    100996: tail_8
+    100998: tail_9
+    101000: tail_ctrl1
+    101002: tail_ctrl10
+    101004: tail_ctrl2
+    101006: tail_ctrl3
+    101008: tail_ctrl4
+    101010: tail_ctrl5
+    101012: tail_ctrl6
+    101014: tail_ctrl7
+    101016: tail_ctrl8
+    101018: tail_ctrl9
+    101020: transform55
+    101022: transform56
+    101024: transform57
+    101026: transform58
+    101028: transform59
+    101030: transform60
+    101032: transform61
+    101034: transform62
+    101036: transform63
+    101038: transform64
+    101040: transform65
+    101042: transform66
+    101044: transform67
+    101046: transform68
+    101048: transform69
+    101050: transform70
+    101052: transform71
+    101054: transform72
+    400000: Arrow
+    400002: Arrow_Box
+    400004: Arrow_Box1
+    400006: arrow_box_ctrl
+    400008: arrow_box_ctrl1
+    400010: arrow_box_J
+    400012: arrow_box_J1
+    400014: arrow_J
+    400016: //RootNode
+    400018: body
+    400020: Bow
+    400022: Bow_Box
+    400024: Bow_Box1
+    400026: bow_box_ctrl
+    400028: bow_ctrl
+    400030: bow_down_ctrl
+    400032: bow_down_ik
+    400034: bow_down_J1
+    400036: bow_down_J10
+    400038: bow_down_J2
+    400040: bow_down_J3
+    400042: bow_down_J4
+    400044: bow_down_J5
+    400046: bow_down_J6
+    400048: bow_down_J7
+    400050: bow_down_J8
+    400052: bow_down_J9
+    400054: bow_J
+    400056: bow_M_J
+    400058: bow_up_ctrl
+    400060: bow_up_ik
+    400062: bow_up_J1
+    400064: bow_up_J10
+    400066: bow_up_J2
+    400068: bow_up_J3
+    400070: bow_up_J4
+    400072: bow_up_J5
+    400074: bow_up_J6
+    400076: bow_up_J7
+    400078: bow_up_J8
+    400080: bow_up_J9
+    400082: bowbox1_ctrl
+    400084: bowbox1_J
+    400086: Ctrl_ChestEndEffector
+    400088: Ctrl_ChestOriginEffector
+    400090: Ctrl_Head
+    400092: Ctrl_HeadEffector
+    400094: Ctrl_Hips
+    400096: Ctrl_HipsEffector
+    400098: Ctrl_LeftAnkleEffector
+    400100: Ctrl_LeftArm
+    400102: Ctrl_LeftElbowEffector
+    400104: Ctrl_LeftFoot
+    400106: Ctrl_LeftFootEffector
+    400108: Ctrl_LeftForeArm
+    400110: Ctrl_LeftHand
+    400112: Ctrl_LeftHipEffector
+    400114: Ctrl_LeftKneeEffector
+    400116: Ctrl_LeftLeg
+    400118: Ctrl_LeftShoulder
+    400120: Ctrl_LeftShoulderEffector
+    400122: Ctrl_LeftToeBase
+    400124: Ctrl_LeftUpLeg
+    400126: Ctrl_LeftWristEffector
+    400128: Ctrl_Neck
+    400130: Ctrl_Reference
+    400132: Ctrl_RightAnkleEffector
+    400134: Ctrl_RightArm
+    400136: Ctrl_RightElbowEffector
+    400138: Ctrl_RightFoot
+    400140: Ctrl_RightFootEffector
+    400142: Ctrl_RightForeArm
+    400144: Ctrl_RightHand
+    400146: Ctrl_RightHipEffector
+    400148: Ctrl_RightKneeEffector
+    400150: Ctrl_RightLeg
+    400152: Ctrl_RightShoulder
+    400154: Ctrl_RightShoulderEffector
+    400156: Ctrl_RightToeBase
+    400158: Ctrl_RightUpLeg
+    400160: Ctrl_RightWristEffector
+    400162: Ctrl_Spine
+    400164: Ctrl_Spine1
+    400166: Ctrl_Spine2
+    400168: Guides
+    400170: Hat_Ctrl
+    400172: Hat_Ik
+    400174: Hat_J_01
+    400176: Hat_J_010
+    400178: Hat_J_011
+    400180: Hat_J_012
+    400182: Hat_J_013
+    400184: Hat_J_014
+    400186: Hat_J_02
+    400188: Hat_J_03
+    400190: Hat_J_04
+    400192: Hat_J_05
+    400194: Hat_J_06
+    400196: Hat_J_07
+    400198: Hat_J_08
+    400200: Hat_J_09
+    400202: Head
+    400204: Head 1
+    400206: Head 2
+    400208: Head_acc
+    400210: head_acc1
+    400212: head_acc1 1
+    400214: head_acc2
+    400216: head_acc2 1
+    400218: head_acc3
+    400220: head_acc3 1
+    400222: head_acc4
+    400224: head_acc4 1
+    400226: head_acc5
+    400228: head_acc5 1
+    400230: head_acc6
+    400232: head_acc6 1
+    400234: head_acc7
+    400236: head_acc7 1
+    400238: Head_Ctrl
+    400240: Hip
+    400242: hip_ctrl
+    400244: Hips
+    400246: Hips 1
+    400248: Horse
+    400250: Horse_body
+    400252: Horse_Main_Ctrl
+    400254: joint1
+    400256: joint14
+    400258: joint2
+    400260: joint2 1
+    400262: joint2 2
+    400264: joint2 3
+    400266: joint21
+    400268: joint3
+    400270: joint3 1
+    400272: joint3 2
+    400274: joint3 3
+    400276: joint4
+    400278: joint4 1
+    400280: joint4 2
+    400282: joint4 3
+    400284: joint5
+    400286: joint5 1
+    400288: joint5 2
+    400290: joint5 3
+    400292: joint6
+    400294: joint6 1
+    400296: joint6 2
+    400298: joint6 3
+    400300: joint7
+    400302: kneel_ctrl
+    400304: kneel_ctrl1
+    400306: kneel_ctrl2
+    400308: kneel_ctrl3
+    400310: L_acc_01
+    400312: L_acc_02
+    400314: L_acc_03
+    400316: L_acc_04
+    400318: L_acc_05
+    400320: L_acc_ctrl_01
+    400322: L_acc_ctrl_02
+    400324: L_acc_ctrl_03
+    400326: L_acc_ctrl_04
+    400328: L_acc_ctrl_05
+    400330: L_back_femur_ctrl
+    400332: L_back_foot
+    400334: L_back_foot_ctrl
+    400336: L_back_leg
+    400338: L_back_leg_ik
+    400340: L_back_toebase
+    400342: L_back_toebase1
+    400344: L_back_upleg
+    400346: L_ear
+    400348: L_ear1
+    400350: L_ear_Ctrl
+    400352: L_femur
+    400354: L_foot1
+    400356: L_foot2
+    400358: L_foot3
+    400360: L_front_foot
+    400362: L_front_foot_ctrl
+    400364: L_front_leg
+    400366: L_front_leg_ik
+    400368: L_front_orient_ctrl
+    400370: L_front_orient_ctrl 1
+    400372: L_front_shoulder_ctrl
+    400374: L_front_toebase
+    400376: L_front_toebase1
+    400378: L_front_upleg
+    400380: L_g_acc1_ctrl1
+    400382: L_g_acc1_ctrl2
+    400384: L_g_acc1_ctrl3
+    400386: L_g_acc1_ctrl4
+    400388: L_g_acc1_ctrl5
+    400390: L_g_acc1_rope_ctrl
+    400392: L_g_acc2_ctrl1
+    400394: L_g_acc2_ctrl2
+    400396: L_g_acc2_ctrl3
+    400398: L_g_acc2_ctrl4
+    400400: L_g_acc2_ctrl5
+    400402: L_g_acc2_rope_ctrl1
+    400404: L_head_acc1
+    400406: L_head_acc2
+    400408: L_head_acc3
+    400410: L_head_acc4
+    400412: L_head_acc5
+    400414: L_head_acc6
+    400416: L_head_acc7
+    400418: L_rein_ctrl
+    400420: L_shoulder
+    400422: L_shoulder_acc1
+    400424: L_shoulder_acc2
+    400426: L_shoulder_acc3
+    400428: L_shoulder_acc4
+    400430: L_shoulder_acc5
+    400432: L_shoulder_acc6
+    400434: L_shoulder_acc7
+    400436: L_Shoulder_Armor_J_01
+    400438: L_Shoulder_Armor_J_02
+    400440: L_Shoulder_Armor_J_03
+    400442: L_stirrup_ctrl
+    400444: LeftArm
+    400446: LeftArm 1
+    400448: LeftFoot
+    400450: LeftFoot 1
+    400452: LeftForeArm
+    400454: LeftForeArm 1
+    400456: LeftHand
+    400458: LeftHand 1
+    400460: LeftLeg
+    400462: LeftLeg 1
+    400464: LeftShoulder
+    400466: LeftShoulder 1
+    400468: LeftToeBase
+    400470: LeftToeBase 1
+    400472: LeftUpLeg
+    400474: LeftUpLeg 1
+    400476: m_neck_acc1
+    400478: m_neck_acc10
+    400480: m_neck_acc11
+    400482: m_neck_acc12
+    400484: m_neck_acc13
+    400486: m_neck_acc2
+    400488: m_neck_acc3
+    400490: m_neck_acc4
+    400492: m_neck_acc5
+    400494: m_neck_acc6
+    400496: m_neck_acc7
+    400498: m_neck_acc8
+    400500: m_neck_acc9
+    400502: M_shoulder_acc_ctrl1
+    400504: M_shoulder_acc_ctrl10
+    400506: M_shoulder_acc_ctrl11
+    400508: M_shoulder_acc_ctrl12
+    400510: M_shoulder_acc_ctrl13
+    400512: M_shoulder_acc_ctrl2
+    400514: M_shoulder_acc_ctrl3
+    400516: M_shoulder_acc_ctrl4
+    400518: M_shoulder_acc_ctrl5
+    400520: M_shoulder_acc_ctrl6
+    400522: M_shoulder_acc_ctrl7
+    400524: M_shoulder_acc_ctrl8
+    400526: M_shoulder_acc_ctrl9
+    400528: Neck
+    400530: Neck 1
+    400532: Neck 2
+    400534: Neck_1
+    400536: Neck_2
+    400538: Neck_acc1
+    400540: neck_acc1
+    400542: neck_acc10
+    400544: neck_acc11
+    400546: neck_acc12
+    400548: neck_acc13
+    400550: neck_acc14
+    400552: Neck_acc2
+    400554: neck_acc2
+    400556: neck_acc3
+    400558: neck_acc4
+    400560: neck_acc5
+    400562: neck_acc6
+    400564: neck_acc7
+    400566: neck_acc8
+    400568: neck_acc9
+    400570: neck_ctrl1
+    400572: neck_ctrl2
+    400574: nurbsCircle1
+    400576: R_acc_01
+    400578: R_acc_02
+    400580: R_acc_03
+    400582: R_acc_04
+    400584: R_acc_05
+    400586: R_acc_ctrl_01
+    400588: R_acc_ctrl_02
+    400590: R_acc_ctrl_03
+    400592: R_acc_ctrl_04
+    400594: R_acc_ctrl_05
+    400596: R_back_femur_ctrl
+    400598: R_back_foot
+    400600: R_back_foot_ctrl
+    400602: R_back_leg
+    400604: R_back_leg_ik
+    400606: R_back_toebase
+    400608: R_back_toebase1
+    400610: R_back_upleg
+    400612: R_ear
+    400614: R_ear1
+    400616: R_ear_ctrl
+    400618: R_femur
+    400620: R_foot1
+    400622: R_foot2
+    400624: R_foot3
+    400626: R_front_foot
+    400628: R_front_foot_ctrl
+    400630: R_front_leg
+    400632: R_front_leg_ik
+    400634: R_front_orient_ctrl
+    400636: R_front_orient_ctrl 1
+    400638: R_front_shoulder_ctrl
+    400640: R_front_toebase
+    400642: R_front_toebase1
+    400644: R_front_upleg
+    400646: R_g_acc1_ctrl1
+    400648: R_g_acc1_ctrl2
+    400650: R_g_acc1_ctrl3
+    400652: R_g_acc1_ctrl4
+    400654: R_g_acc1_ctrl5
+    400656: R_g_acc1_rope_ctrl
+    400658: R_g_acc2_ctrl1
+    400660: R_g_acc2_ctrl2
+    400662: R_g_acc2_ctrl3
+    400664: R_g_acc2_ctrl4
+    400666: R_g_acc2_ctrl5
+    400668: R_g_acc2_rope_ctrl1
+    400670: R_head_acc1
+    400672: R_head_acc2
+    400674: R_head_acc3
+    400676: R_head_acc4
+    400678: R_head_acc5
+    400680: R_head_acc6
+    400682: R_head_acc7
+    400684: R_rein_ctrl
+    400686: R_shoulder
+    400688: R_shoulder_acc1
+    400690: R_shoulder_acc2
+    400692: R_shoulder_acc3
+    400694: R_shoulder_acc4
+    400696: R_shoulder_acc5
+    400698: R_shoulder_acc6
+    400700: R_shoulder_acc7
+    400702: R_Shoulder_Armor_J_01
+    400704: R_Shoulder_Armor_J_02
+    400706: R_Shoulder_Armor_J_03
+    400708: R_stirrup_ctrl
+    400710: Reference
+    400712: Reference 1
+    400714: rein1
+    400716: rein17
+    400718: rein2
+    400720: rein2 1
+    400722: rein3
+    400724: rein3 1
+    400726: rein4
+    400728: rein4 1
+    400730: rein5
+    400732: rein5 1
+    400734: rein6
+    400736: rein6 1
+    400738: rein7
+    400740: rein7 1
+    400742: rein8
+    400744: rein8 1
+    400746: rein_ctrl
+    400748: reins
+    400750: RightArm
+    400752: RightArm 1
+    400754: RightFoot
+    400756: RightFoot 1
+    400758: RightForeArm
+    400760: RightForeArm 1
+    400762: RightHand
+    400764: RightHand 1
+    400766: RightLeg
+    400768: RightLeg 1
+    400770: RightShoulder
+    400772: RightShoulder 1
+    400774: RightToeBase
+    400776: RightToeBase 1
+    400778: RightUpLeg
+    400780: RightUpLeg 1
+    400782: saddle_acc
+    400784: ScimitarRider
+    400786: Shoulder_Armor
+    400788: skirt
+    400790: skirt_J_01
+    400792: skirt_J_02
+    400794: skirt_J_03
+    400796: skirt_J_04
+    400798: skirt_J_05
+    400800: skirt_J_06
+    400802: skirt_J_07
+    400804: skirt_J_08
+    400806: skirt_J_09
+    400808: skirt_J_10
+    400810: skirt_J_11
+    400812: skirt_J_12
+    400814: skirt_J_13
+    400816: skirt_J_14
+    400818: skirt_J_15
+    400820: skirt_J_16
+    400822: skirt_J_17
+    400824: skirt_J_18
+    400826: skirt_J_19
+    400828: skirt_J_20
+    400830: skirt_J_21
+    400832: skirt_J_22
+    400834: skirt_J_23
+    400836: skirt_J_24
+    400838: skirt_J_25
+    400840: skirt_J_26
+    400842: skirt_J_27
+    400844: skirt_J_28
+    400846: skirt_J_29
+    400848: skirt_J_30
+    400850: skirt_J_31
+    400852: skirt_J_32
+    400854: skirt_J_33
+    400856: skirt_J_34
+    400858: skirt_J_35
+    400860: skirt_JJ_01
+    400862: skirt_JJ_010
+    400864: skirt_JJ_011
+    400866: skirt_JJ_012
+    400868: skirt_JJ_013
+    400870: skirt_JJ_06
+    400872: skirt_JJ_07
+    400874: skirt_JJ_08
+    400876: skirt_JJ_09
+    400878: skirt_JJ_10
+    400880: skirt_JJ_11
+    400882: skirt_JJ_12
+    400884: skirt_JJ_13
+    400886: skirt_JJ_14
+    400888: skirt_JJ_15
+    400890: skirt_JJ_16
+    400892: skirt_JJ_17
+    400894: skirt_JJ_18
+    400896: skirt_JJ_19
+    400898: skirt_JJ_20
+    400900: skirt_JJ_21
+    400902: skirt_JJ_22
+    400904: skirt_JJ_23
+    400906: skirt_JJ_24
+    400908: skirt_JJ_25
+    400910: skirt_JJ_26
+    400912: skirt_JJ_27
+    400914: skirt_JJ_28
+    400916: skirt_JJ_29
+    400918: skirt_JJ_30
+    400920: skirt_JJ_31
+    400922: skirt_JJ_32
+    400924: skirt_JJ_33
+    400926: skirt_JJ_34
+    400928: skirt_JJ_35
+    400930: Skirt_M_J_01
+    400932: Skirt_M_J_02
+    400934: Skirt_M_J_03
+    400936: Skirt_M_J_04
+    400938: Skirt_M_J_05
+    400940: Spear
+    400942: spear_ctrl
+    400944: spear_J_01
+    400946: spear_J_02
+    400948: Spine
+    400950: Spine 1
+    400952: Spine 2
+    400954: Spine1
+    400956: Spine1 1
+    400958: Spine1 2
+    400960: spine1_ctrl
+    400962: Spine2
+    400964: Spine2 1
+    400966: Spine2 2
+    400968: spine2_ctrl
+    400970: Spine3
+    400972: spine_ctrl
+    400974: stirrup
+    400976: string_ctrl
+    400978: String_J
+    400980: tail
+    400982: tail_1
+    400984: tail_2
+    400986: tail_3
+    400988: tail_4
+    400990: tail_5
+    400992: tail_6
+    400994: tail_7
+    400996: tail_8
+    400998: tail_9
+    401000: tail_ctrl1
+    401002: tail_ctrl10
+    401004: tail_ctrl2
+    401006: tail_ctrl3
+    401008: tail_ctrl4
+    401010: tail_ctrl5
+    401012: tail_ctrl6
+    401014: tail_ctrl7
+    401016: tail_ctrl8
+    401018: tail_ctrl9
+    401020: transform55
+    401022: transform56
+    401024: transform57
+    401026: transform58
+    401028: transform59
+    401030: transform60
+    401032: transform61
+    401034: transform62
+    401036: transform63
+    401038: transform64
+    401040: transform65
+    401042: transform66
+    401044: transform67
+    401046: transform68
+    401048: transform69
+    401050: transform70
+    401052: transform71
+    401054: transform72
+    2100000: ScimitarRider_Tex
+    2100002: Wepon_Tex
+    2100004: Horse_Tex
+    4300000: Shoulder_Armor
+    4300002: skirt
+    4300004: body
+    4300006: Arrow
+    4300008: Arrow_Box1
+    4300010: Arrow_Box
+    4300012: Bow
+    4300014: Bow_Box
+    4300016: Bow_Box1
+    4300018: Spear
+    4300020: Head_acc
+    4300022: reins
+    4300024: Neck_acc1
+    4300026: Neck_acc2
+    4300028: stirrup
+    4300030: saddle_acc
+    4300032: Horse_body
+    7400000: ScimitarRider_Attack
+    9500000: //RootNode
+    13700000: Arrow
+    13700002: Arrow_Box
+    13700004: Arrow_Box1
+    13700006: body
+    13700008: Bow
+    13700010: Bow_Box
+    13700012: Bow_Box1
+    13700014: Head_acc
+    13700016: Horse_body
+    13700018: Neck_acc1
+    13700020: Neck_acc2
+    13700022: reins
+    13700024: saddle_acc
+    13700026: Shoulder_Armor
+    13700028: skirt
+    13700030: Spear
+    13700032: stirrup
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: ScimitarRider_Attack
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

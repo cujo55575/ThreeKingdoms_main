@@ -1,0 +1,618 @@
+fileFormatVersion: 2
+guid: 7a274bc329d5b8048bbbef95553ddf28
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Arrow
+    100002: Arrow_Box
+    100004: Arrow_J_01
+    100006: Arrow_J_02
+    100008: B_Hip_Armor
+    100010: B_Hip_Armor_L_01
+    100012: B_Hip_Armor_L_02
+    100014: B_Hip_Armor_L_03
+    100016: B_Hip_Armor_M_01
+    100018: B_Hip_Armor_M_02
+    100020: B_Hip_Armor_M_03
+    100022: B_Hip_Armor_R_01
+    100024: B_Hip_Armor_R_02
+    100026: B_Hip_Armor_R_03
+    100028: Body
+    100030: Bow
+    100032: Bow_Main
+    100034: Ctrl_ChestEndEffector
+    100036: Ctrl_ChestOriginEffector
+    100038: Ctrl_Head
+    100040: Ctrl_HeadEffector
+    100042: Ctrl_Hips
+    100044: Ctrl_HipsEffector
+    100046: Ctrl_LeftAnkleEffector
+    100048: Ctrl_LeftArm
+    100050: Ctrl_LeftElbowEffector
+    100052: Ctrl_LeftFoot
+    100054: Ctrl_LeftFootEffector
+    100056: Ctrl_LeftForeArm
+    100058: Ctrl_LeftHand
+    100060: Ctrl_LeftHipEffector
+    100062: Ctrl_LeftKneeEffector
+    100064: Ctrl_LeftLeg
+    100066: Ctrl_LeftShoulder
+    100068: Ctrl_LeftShoulderEffector
+    100070: Ctrl_LeftToeBase
+    100072: Ctrl_LeftUpLeg
+    100074: Ctrl_LeftWristEffector
+    100076: Ctrl_Neck
+    100078: Ctrl_Reference
+    100080: Ctrl_RightAnkleEffector
+    100082: Ctrl_RightArm
+    100084: Ctrl_RightElbowEffector
+    100086: Ctrl_RightFoot
+    100088: Ctrl_RightFootEffector
+    100090: Ctrl_RightForeArm
+    100092: Ctrl_RightHand
+    100094: Ctrl_RightHipEffector
+    100096: Ctrl_RightKneeEffector
+    100098: Ctrl_RightLeg
+    100100: Ctrl_RightShoulder
+    100102: Ctrl_RightShoulderEffector
+    100104: Ctrl_RightToeBase
+    100106: Ctrl_RightUpLeg
+    100108: Ctrl_RightWristEffector
+    100110: Ctrl_Spine
+    100112: Ctrl_Spine1
+    100114: Ctrl_Spine2
+    100116: F_Hip_Armor
+    100118: Front_Hip_Armor_L_01
+    100120: Front_Hip_Armor_L_02
+    100122: Front_Hip_Armor_L_03
+    100124: Front_Hip_Armor_M_01
+    100126: Front_Hip_Armor_M_02
+    100128: Front_Hip_Armor_M_03
+    100130: Front_Hip_Armor_R_01
+    100132: Front_Hip_Armor_R_02
+    100134: Front_Hip_Armor_R_03
+    100136: Front_Slider_Ctrl
+    100138: Guides
+    100140: Handle
+    100142: Handle_J_01
+    100144: Head
+    100146: Head 1
+    100148: Hips
+    100150: Hips 1
+    100152: L_bow_J_01
+    100154: L_bow_J_02
+    100156: L_bow_J_03
+    100158: L_bow_J_04
+    100160: L_bow_J_05
+    100162: L_bow_J_06
+    100164: L_Handle_ik
+    100166: L_Leg_Armor_01
+    100168: L_Leg_Armor_02
+    100170: L_Leg_Armor_03
+    100172: L_Leg_Armor_04
+    100174: L_Leg_Armor_05
+    100176: L_Leg_Armor_06
+    100178: L_Leg_Armor_07
+    100180: L_Leg_Armor_08
+    100182: L_Leg_Armor_09
+    100184: L_Leg_Armor_10
+    100186: L_Leg_Armor_11
+    100188: L_Leg_Armor_12
+    100190: L_Leg_Armor_13
+    100192: L_Leg_Armor_14
+    100194: L_Leg_Armor_15
+    100196: L_Leg_Armor_16
+    100198: L_Leg_Armor_17
+    100200: L_Leg_Armor_18
+    100202: L_Leg_Armor_19
+    100204: L_Leg_Armor_20
+    100206: L_Leg_Armor_21
+    100208: L_Leg_Armor_22
+    100210: L_Leg_Armor_23
+    100212: L_Leg_Armor_24
+    100214: L_Leg_Armor_25
+    100216: L_Leg_Armor_26
+    100218: L_Leg_Armor_27
+    100220: L_Leg_Armor_28
+    100222: L_Shoulder_Armor
+    100224: L_Shoulder_Armor_01
+    100226: L_Shoulder_Armor_02
+    100228: L_Uper_Leg
+    100230: LeftArm
+    100232: LeftArm 1
+    100234: LeftFoot
+    100236: LeftFoot 1
+    100238: LeftForeArm
+    100240: LeftForeArm 1
+    100242: LeftHand
+    100244: LeftHand 1
+    100246: LeftLeg
+    100248: LeftLeg 1
+    100250: LeftShoulder
+    100252: LeftShoulder 1
+    100254: LeftToeBase
+    100256: LeftToeBase 1
+    100258: LeftUpLeg
+    100260: LeftUpLeg 1
+    100262: LianNu_Shooter
+    100264: //RootNode
+    100266: M_Handle_Ctrl
+    100268: Neck
+    100270: Neck 1
+    100272: R_bow_J_01
+    100274: R_bow_J_02
+    100276: R_bow_J_03
+    100278: R_bow_J_04
+    100280: R_bow_J_05
+    100282: R_bow_J_06
+    100284: R_Handle_ik
+    100286: R_Reg_Armor_01
+    100288: R_Reg_Armor_02
+    100290: R_Reg_Armor_03
+    100292: R_Reg_Armor_04
+    100294: R_Reg_Armor_05
+    100296: R_Reg_Armor_06
+    100298: R_Reg_Armor_07
+    100300: R_Reg_Armor_08
+    100302: R_Reg_Armor_09
+    100304: R_Reg_Armor_10
+    100306: R_Reg_Armor_11
+    100308: R_Reg_Armor_12
+    100310: R_Reg_Armor_13
+    100312: R_Reg_Armor_14
+    100314: R_Reg_Armor_15
+    100316: R_Reg_Armor_16
+    100318: R_Reg_Armor_17
+    100320: R_Reg_Armor_18
+    100322: R_Reg_Armor_19
+    100324: R_Reg_Armor_20
+    100326: R_Reg_Armor_21
+    100328: R_Reg_Armor_22
+    100330: R_Reg_Armor_23
+    100332: R_Reg_Armor_24
+    100334: R_Reg_Armor_25
+    100336: R_Reg_Armor_26
+    100338: R_Reg_Armor_27
+    100340: R_Reg_Armor_28
+    100342: R_Shoulder_Armor
+    100344: R_Shoulder_Armor_01
+    100346: R_Shoulder_Armor_02
+    100348: R_Uper_Leg
+    100350: Reference
+    100352: Reference 1
+    100354: RightArm
+    100356: RightArm 1
+    100358: RightFoot
+    100360: RightFoot 1
+    100362: RightForeArm
+    100364: RightForeArm 1
+    100366: RightHand
+    100368: RightHand 1
+    100370: RightLeg
+    100372: RightLeg 1
+    100374: RightShoulder
+    100376: RightShoulder 1
+    100378: RightToeBase
+    100380: RightToeBase 1
+    100382: RightUpLeg
+    100384: RightUpLeg 1
+    100386: S_Bag
+    100388: S_Hip_Armor_01
+    100390: S_Hip_Armor_02
+    100392: S_Hip_Armor_03
+    100394: S_Hip_Armor_04
+    100396: Slide_Ctrl
+    100398: slide_J_01
+    100400: Slider
+    100402: Spine
+    100404: Spine 1
+    100406: Spine1
+    100408: Spine1 1
+    100410: Spine2
+    100412: Spine2 1
+    100414: string_J_01
+    100416: string_J_02
+    100418: transform1
+    100420: transform10
+    100422: transform11
+    100424: transform12
+    100426: transform13
+    100428: transform15
+    100430: transform16
+    100432: transform17
+    100434: transform18
+    100436: transform19
+    100438: transform2
+    100440: transform20
+    100442: transform21
+    100444: transform22
+    100446: transform23
+    100448: transform3
+    100450: transform4
+    100452: transform5
+    100454: transform6
+    100456: transform7
+    100458: transform8
+    100460: transform9
+    100462: Weapon_Ctrl
+    100464: Weapon_J_01
+    100466: Weapon_J_02
+    400000: Arrow
+    400002: Arrow_Box
+    400004: Arrow_J_01
+    400006: Arrow_J_02
+    400008: B_Hip_Armor
+    400010: B_Hip_Armor_L_01
+    400012: B_Hip_Armor_L_02
+    400014: B_Hip_Armor_L_03
+    400016: B_Hip_Armor_M_01
+    400018: B_Hip_Armor_M_02
+    400020: B_Hip_Armor_M_03
+    400022: B_Hip_Armor_R_01
+    400024: B_Hip_Armor_R_02
+    400026: B_Hip_Armor_R_03
+    400028: Body
+    400030: Bow
+    400032: Bow_Main
+    400034: Ctrl_ChestEndEffector
+    400036: Ctrl_ChestOriginEffector
+    400038: Ctrl_Head
+    400040: Ctrl_HeadEffector
+    400042: Ctrl_Hips
+    400044: Ctrl_HipsEffector
+    400046: Ctrl_LeftAnkleEffector
+    400048: Ctrl_LeftArm
+    400050: Ctrl_LeftElbowEffector
+    400052: Ctrl_LeftFoot
+    400054: Ctrl_LeftFootEffector
+    400056: Ctrl_LeftForeArm
+    400058: Ctrl_LeftHand
+    400060: Ctrl_LeftHipEffector
+    400062: Ctrl_LeftKneeEffector
+    400064: Ctrl_LeftLeg
+    400066: Ctrl_LeftShoulder
+    400068: Ctrl_LeftShoulderEffector
+    400070: Ctrl_LeftToeBase
+    400072: Ctrl_LeftUpLeg
+    400074: Ctrl_LeftWristEffector
+    400076: Ctrl_Neck
+    400078: Ctrl_Reference
+    400080: Ctrl_RightAnkleEffector
+    400082: Ctrl_RightArm
+    400084: Ctrl_RightElbowEffector
+    400086: Ctrl_RightFoot
+    400088: Ctrl_RightFootEffector
+    400090: Ctrl_RightForeArm
+    400092: Ctrl_RightHand
+    400094: Ctrl_RightHipEffector
+    400096: Ctrl_RightKneeEffector
+    400098: Ctrl_RightLeg
+    400100: Ctrl_RightShoulder
+    400102: Ctrl_RightShoulderEffector
+    400104: Ctrl_RightToeBase
+    400106: Ctrl_RightUpLeg
+    400108: Ctrl_RightWristEffector
+    400110: Ctrl_Spine
+    400112: Ctrl_Spine1
+    400114: Ctrl_Spine2
+    400116: F_Hip_Armor
+    400118: Front_Hip_Armor_L_01
+    400120: Front_Hip_Armor_L_02
+    400122: Front_Hip_Armor_L_03
+    400124: Front_Hip_Armor_M_01
+    400126: Front_Hip_Armor_M_02
+    400128: Front_Hip_Armor_M_03
+    400130: Front_Hip_Armor_R_01
+    400132: Front_Hip_Armor_R_02
+    400134: Front_Hip_Armor_R_03
+    400136: Front_Slider_Ctrl
+    400138: Guides
+    400140: Handle
+    400142: Handle_J_01
+    400144: Head
+    400146: Head 1
+    400148: Hips
+    400150: Hips 1
+    400152: L_bow_J_01
+    400154: L_bow_J_02
+    400156: L_bow_J_03
+    400158: L_bow_J_04
+    400160: L_bow_J_05
+    400162: L_bow_J_06
+    400164: L_Handle_ik
+    400166: L_Leg_Armor_01
+    400168: L_Leg_Armor_02
+    400170: L_Leg_Armor_03
+    400172: L_Leg_Armor_04
+    400174: L_Leg_Armor_05
+    400176: L_Leg_Armor_06
+    400178: L_Leg_Armor_07
+    400180: L_Leg_Armor_08
+    400182: L_Leg_Armor_09
+    400184: L_Leg_Armor_10
+    400186: L_Leg_Armor_11
+    400188: L_Leg_Armor_12
+    400190: L_Leg_Armor_13
+    400192: L_Leg_Armor_14
+    400194: L_Leg_Armor_15
+    400196: L_Leg_Armor_16
+    400198: L_Leg_Armor_17
+    400200: L_Leg_Armor_18
+    400202: L_Leg_Armor_19
+    400204: L_Leg_Armor_20
+    400206: L_Leg_Armor_21
+    400208: L_Leg_Armor_22
+    400210: L_Leg_Armor_23
+    400212: L_Leg_Armor_24
+    400214: L_Leg_Armor_25
+    400216: L_Leg_Armor_26
+    400218: L_Leg_Armor_27
+    400220: L_Leg_Armor_28
+    400222: L_Shoulder_Armor
+    400224: L_Shoulder_Armor_01
+    400226: L_Shoulder_Armor_02
+    400228: L_Uper_Leg
+    400230: LeftArm
+    400232: LeftArm 1
+    400234: LeftFoot
+    400236: LeftFoot 1
+    400238: LeftForeArm
+    400240: LeftForeArm 1
+    400242: LeftHand
+    400244: LeftHand 1
+    400246: LeftLeg
+    400248: LeftLeg 1
+    400250: LeftShoulder
+    400252: LeftShoulder 1
+    400254: LeftToeBase
+    400256: LeftToeBase 1
+    400258: LeftUpLeg
+    400260: LeftUpLeg 1
+    400262: LianNu_Shooter
+    400264: //RootNode
+    400266: M_Handle_Ctrl
+    400268: Neck
+    400270: Neck 1
+    400272: R_bow_J_01
+    400274: R_bow_J_02
+    400276: R_bow_J_03
+    400278: R_bow_J_04
+    400280: R_bow_J_05
+    400282: R_bow_J_06
+    400284: R_Handle_ik
+    400286: R_Reg_Armor_01
+    400288: R_Reg_Armor_02
+    400290: R_Reg_Armor_03
+    400292: R_Reg_Armor_04
+    400294: R_Reg_Armor_05
+    400296: R_Reg_Armor_06
+    400298: R_Reg_Armor_07
+    400300: R_Reg_Armor_08
+    400302: R_Reg_Armor_09
+    400304: R_Reg_Armor_10
+    400306: R_Reg_Armor_11
+    400308: R_Reg_Armor_12
+    400310: R_Reg_Armor_13
+    400312: R_Reg_Armor_14
+    400314: R_Reg_Armor_15
+    400316: R_Reg_Armor_16
+    400318: R_Reg_Armor_17
+    400320: R_Reg_Armor_18
+    400322: R_Reg_Armor_19
+    400324: R_Reg_Armor_20
+    400326: R_Reg_Armor_21
+    400328: R_Reg_Armor_22
+    400330: R_Reg_Armor_23
+    400332: R_Reg_Armor_24
+    400334: R_Reg_Armor_25
+    400336: R_Reg_Armor_26
+    400338: R_Reg_Armor_27
+    400340: R_Reg_Armor_28
+    400342: R_Shoulder_Armor
+    400344: R_Shoulder_Armor_01
+    400346: R_Shoulder_Armor_02
+    400348: R_Uper_Leg
+    400350: Reference
+    400352: Reference 1
+    400354: RightArm
+    400356: RightArm 1
+    400358: RightFoot
+    400360: RightFoot 1
+    400362: RightForeArm
+    400364: RightForeArm 1
+    400366: RightHand
+    400368: RightHand 1
+    400370: RightLeg
+    400372: RightLeg 1
+    400374: RightShoulder
+    400376: RightShoulder 1
+    400378: RightToeBase
+    400380: RightToeBase 1
+    400382: RightUpLeg
+    400384: RightUpLeg 1
+    400386: S_Bag
+    400388: S_Hip_Armor_01
+    400390: S_Hip_Armor_02
+    400392: S_Hip_Armor_03
+    400394: S_Hip_Armor_04
+    400396: Slide_Ctrl
+    400398: slide_J_01
+    400400: Slider
+    400402: Spine
+    400404: Spine 1
+    400406: Spine1
+    400408: Spine1 1
+    400410: Spine2
+    400412: Spine2 1
+    400414: string_J_01
+    400416: string_J_02
+    400418: transform1
+    400420: transform10
+    400422: transform11
+    400424: transform12
+    400426: transform13
+    400428: transform15
+    400430: transform16
+    400432: transform17
+    400434: transform18
+    400436: transform19
+    400438: transform2
+    400440: transform20
+    400442: transform21
+    400444: transform22
+    400446: transform23
+    400448: transform3
+    400450: transform4
+    400452: transform5
+    400454: transform6
+    400456: transform7
+    400458: transform8
+    400460: transform9
+    400462: Weapon_Ctrl
+    400464: Weapon_J_01
+    400466: Weapon_J_02
+    2100000: Weapon_Tex
+    2100002: LianNu_Shooter_Tex
+    4300000: Arrow_Box
+    4300002: Arrow
+    4300004: Handle
+    4300006: Slider
+    4300008: Bow
+    4300010: Body
+    4300012: L_Uper_Leg
+    4300014: R_Uper_Leg
+    4300016: S_Bag
+    4300018: B_Hip_Armor
+    4300020: F_Hip_Armor
+    4300022: L_Shoulder_Armor
+    4300024: R_Shoulder_Armor
+    7400000: LianNuShooter_Attack
+    9500000: //RootNode
+    13700000: Arrow
+    13700002: Arrow_Box
+    13700004: B_Hip_Armor
+    13700006: Body
+    13700008: Bow
+    13700010: F_Hip_Armor
+    13700012: Handle
+    13700014: L_Shoulder_Armor
+    13700016: L_Uper_Leg
+    13700018: R_Shoulder_Armor
+    13700020: R_Uper_Leg
+    13700022: S_Bag
+    13700024: Slider
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: LianNuShooter_Attack
+      takeName: Take 001
+      firstFrame: 2
+      lastFrame: 46
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

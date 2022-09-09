@@ -1,0 +1,92 @@
+{
+    "Cards": [
+        {
+            "Name": "Card9",
+            "TextureName": "H9",
+            "RareUp": 1,
+            "Atk": 9,
+            "Def": 9,
+            "IsUsed": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "Scale": 0.0
+        },
+        {
+            "Name": "Card10",
+            "TextureName": "H10",
+            "RareUp": 1,
+            "Atk": 10,
+            "Def": 10,
+            "IsUsed": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "Scale": 0.0
+        },
+        {
+            "Name": "Card11",
+            "TextureName": "H11",
+            "RareUp": 1,
+            "Atk": 11,
+            "Def": 11,
+            "IsUsed": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "Scale": 0.0
+        },
+        {
+            "Name": "Card12",
+            "TextureName": "H12",
+            "RareUp": 1,
+            "Atk": 12,
+            "Def": 12,
+            "IsUsed": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "Scale": 0.0
+        },
+        {
+            "Name": "Card13",
+            "TextureName": "H13",
+            "RareUp": 1,
+            "Atk": 13,
+            "Def": 13,
+            "IsUsed": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "Scale": 0.0
+        },
+        {
+            "Name": "Tin Tin",
+            "TextureName": "H14",
+            "RareUp": 1,
+            "Atk": 14,
+            "Def": 14,
+            "IsUsed": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "Scale": 0.0
+        },
+        {
+            "Name": "Card15",
+            "TextureName": "H15",
+            "RareUp": 1,
+            "Atk": 15,
+            "Def": 15,
+            "IsUsed": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "Scale": 0.0
+        },
+        {
+            "Name": "Card16",
+            "TextureName": "H16",
+            "RareUp": 1,
+            "Atk": 16,
+            "Def": 16,
+            "IsUsed": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "Scale": 0.0
+        }
+    ]
+}

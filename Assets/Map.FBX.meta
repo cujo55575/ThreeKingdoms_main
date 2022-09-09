@@ -1,0 +1,1420 @@
+fileFormatVersion: 2
+guid: 508c8874411270c40aa516357ba5be08
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 002
+    100002: 1
+    100004: Box032
+    100006: Box036
+    100008: Box037
+    100010: Box038
+    100012: Box039
+    100014: Box041
+    100016: Box043
+    100018: Box045
+    100020: Box048
+    100022: Box051
+    100024: Box057
+    100026: Box070
+    100028: Box073
+    100030: Box074
+    100032: Box075
+    100034: Box080
+    100036: Box083
+    100038: Box084
+    100040: Box085
+    100042: Box086
+    100044: Box087
+    100046: Box088
+    100048: Box089
+    100050: Box090
+    100052: Box091
+    100054: Box092
+    100056: Box093
+    100058: Box094
+    100060: Box095
+    100062: Box096
+    100064: Box097
+    100066: Box098
+    100068: Box099
+    100070: Box100
+    100072: Box102
+    100074: Box103
+    100076: Box104
+    100078: Box105
+    100080: Box106
+    100082: Box107
+    100084: Box108
+    100086: Box109
+    100088: Box110
+    100090: Box111
+    100092: Box112
+    100094: Box113
+    100096: Box114
+    100098: Box115
+    100100: Box116
+    100102: Group001
+    100104: Group002
+    100106: Group003
+    100108: Group004
+    100110: Group005
+    100112: Group006
+    100114: Group007
+    100116: Group008
+    100118: Group009
+    100120: Group010
+    100122: Group011
+    100124: Group012
+    100126: Group013
+    100128: Group014
+    100130: Group015
+    100132: Group016
+    100134: Group017
+    100136: Group018
+    100138: Group019
+    100140: Group021
+    100142: Group022
+    100144: Group023
+    100146: Group024
+    100148: Group025
+    100150: Group026
+    100152: Group027
+    100154: Group028
+    100156: Group029
+    100158: Group030
+    100160: Group031
+    100162: Group032
+    100164: Group033
+    100166: Group034
+    100168: Group035
+    100170: Group036
+    100172: Group037
+    100174: Group038
+    100176: house006
+    100178: house104
+    100180: house124
+    100182: house136
+    100184: house140
+    100186: house144
+    100188: house153
+    100190: house163
+    100192: house167
+    100194: house171
+    100196: house183
+    100198: house184
+    100200: house185
+    100202: house186
+    100204: house187
+    100206: house188
+    100208: house189
+    100210: house192
+    100212: house193
+    100214: house194
+    100216: house195
+    100218: house196
+    100220: house198
+    100222: house199
+    100224: house201
+    100226: house202
+    100228: house205
+    100230: house206
+    100232: house207
+    100234: house209
+    100236: house214
+    100238: house224
+    100240: house226
+    100242: house235
+    100244: house252
+    100246: house253
+    100248: house255
+    100250: house256
+    100252: house259
+    100254: house262
+    100256: house263
+    100258: house265
+    100260: house266
+    100262: house268
+    100264: house269
+    100266: house270
+    100268: house273
+    100270: house282
+    100272: house294
+    100274: house300
+    100276: house314
+    100278: house315
+    100280: house316
+    100282: house317
+    100284: house318
+    100286: house319
+    100288: house320
+    100290: house321
+    100292: house322
+    100294: house323
+    100296: house324
+    100298: house325
+    100300: house326
+    100302: house327
+    100304: house328
+    100306: house329
+    100308: house330
+    100310: house331
+    100312: house336
+    100314: house337
+    100316: house338
+    100318: house339
+    100320: house340
+    100322: house341
+    100324: house342
+    100326: house343
+    100328: house344
+    100330: house345
+    100332: house346
+    100334: house347
+    100336: house348
+    100338: house349
+    100340: house350
+    100342: house351
+    100344: house352
+    100346: house353
+    100348: house354
+    100350: house355
+    100352: house356
+    100354: house357
+    100356: house358
+    100358: house359
+    100360: house360
+    100362: house361
+    100364: line002
+    100366: line01
+    100368: Map 001
+    100370: Map 002
+    100372: map001
+    100374: map003
+    100376: map004
+    100378: map005
+    100380: map006
+    100382: map007
+    100384: map008
+    100386: map009
+    100388: map011
+    100390: map013
+    100392: map014
+    100394: map015
+    100396: map016
+    100398: map017
+    100400: map018
+    100402: map019
+    100404: map020
+    100406: map021
+    100408: map022
+    100410: map023
+    100412: map024
+    100414: map025
+    100416: map026
+    100418: map027
+    100420: map028
+    100422: map029
+    100424: map030
+    100426: map031
+    100428: map032
+    100430: map033
+    100432: map034
+    100434: map035
+    100436: map036
+    100438: map037
+    100440: map038
+    100442: map039
+    100444: map040
+    100446: map041
+    100448: map042
+    100450: map043
+    100452: pam012
+    100454: pam013
+    100456: Sphere01:139
+    100458: Sphere01:140
+    100460: Sphere01:141
+    100462: Sphere01:142
+    100464: //RootNode
+    400000: 002
+    400002: 1
+    400004: Box032
+    400006: Box036
+    400008: Box037
+    400010: Box038
+    400012: Box039
+    400014: Box041
+    400016: Box043
+    400018: Box045
+    400020: Box048
+    400022: Box051
+    400024: Box057
+    400026: Box070
+    400028: Box073
+    400030: Box074
+    400032: Box075
+    400034: Box080
+    400036: Box083
+    400038: Box084
+    400040: Box085
+    400042: Box086
+    400044: Box087
+    400046: Box088
+    400048: Box089
+    400050: Box090
+    400052: Box091
+    400054: Box092
+    400056: Box093
+    400058: Box094
+    400060: Box095
+    400062: Box096
+    400064: Box097
+    400066: Box098
+    400068: Box099
+    400070: Box100
+    400072: Box102
+    400074: Box103
+    400076: Box104
+    400078: Box105
+    400080: Box106
+    400082: Box107
+    400084: Box108
+    400086: Box109
+    400088: Box110
+    400090: Box111
+    400092: Box112
+    400094: Box113
+    400096: Box114
+    400098: Box115
+    400100: Box116
+    400102: Group001
+    400104: Group002
+    400106: Group003
+    400108: Group004
+    400110: Group005
+    400112: Group006
+    400114: Group007
+    400116: Group008
+    400118: Group009
+    400120: Group010
+    400122: Group011
+    400124: Group012
+    400126: Group013
+    400128: Group014
+    400130: Group015
+    400132: Group016
+    400134: Group017
+    400136: Group018
+    400138: Group019
+    400140: Group021
+    400142: Group022
+    400144: Group023
+    400146: Group024
+    400148: Group025
+    400150: Group026
+    400152: Group027
+    400154: Group028
+    400156: Group029
+    400158: Group030
+    400160: Group031
+    400162: Group032
+    400164: Group033
+    400166: Group034
+    400168: Group035
+    400170: Group036
+    400172: Group037
+    400174: Group038
+    400176: house006
+    400178: house104
+    400180: house124
+    400182: house136
+    400184: house140
+    400186: house144
+    400188: house153
+    400190: house163
+    400192: house167
+    400194: house171
+    400196: house183
+    400198: house184
+    400200: house185
+    400202: house186
+    400204: house187
+    400206: house188
+    400208: house189
+    400210: house192
+    400212: house193
+    400214: house194
+    400216: house195
+    400218: house196
+    400220: house198
+    400222: house199
+    400224: house201
+    400226: house202
+    400228: house205
+    400230: house206
+    400232: house207
+    400234: house209
+    400236: house214
+    400238: house224
+    400240: house226
+    400242: house235
+    400244: house252
+    400246: house253
+    400248: house255
+    400250: house256
+    400252: house259
+    400254: house262
+    400256: house263
+    400258: house265
+    400260: house266
+    400262: house268
+    400264: house269
+    400266: house270
+    400268: house273
+    400270: house282
+    400272: house294
+    400274: house300
+    400276: house314
+    400278: house315
+    400280: house316
+    400282: house317
+    400284: house318
+    400286: house319
+    400288: house320
+    400290: house321
+    400292: house322
+    400294: house323
+    400296: house324
+    400298: house325
+    400300: house326
+    400302: house327
+    400304: house328
+    400306: house329
+    400308: house330
+    400310: house331
+    400312: house336
+    400314: house337
+    400316: house338
+    400318: house339
+    400320: house340
+    400322: house341
+    400324: house342
+    400326: house343
+    400328: house344
+    400330: house345
+    400332: house346
+    400334: house347
+    400336: house348
+    400338: house349
+    400340: house350
+    400342: house351
+    400344: house352
+    400346: house353
+    400348: house354
+    400350: house355
+    400352: house356
+    400354: house357
+    400356: house358
+    400358: house359
+    400360: house360
+    400362: house361
+    400364: line002
+    400366: line01
+    400368: Map 001
+    400370: Map 002
+    400372: map001
+    400374: map003
+    400376: map004
+    400378: map005
+    400380: map006
+    400382: map007
+    400384: map008
+    400386: map009
+    400388: map011
+    400390: map013
+    400392: map014
+    400394: map015
+    400396: map016
+    400398: map017
+    400400: map018
+    400402: map019
+    400404: map020
+    400406: map021
+    400408: map022
+    400410: map023
+    400412: map024
+    400414: map025
+    400416: map026
+    400418: map027
+    400420: map028
+    400422: map029
+    400424: map030
+    400426: map031
+    400428: map032
+    400430: map033
+    400432: map034
+    400434: map035
+    400436: map036
+    400438: map037
+    400440: map038
+    400442: map039
+    400444: map040
+    400446: map041
+    400448: map042
+    400450: map043
+    400452: pam012
+    400454: pam013
+    400456: Sphere01:139
+    400458: Sphere01:140
+    400460: Sphere01:141
+    400462: Sphere01:142
+    400464: //RootNode
+    2100000: 'Material #13819'
+    2100002: 'Material #13818'
+    2100004: 'Material #25'
+    2100006: 'Material #26'
+    2100008: 'Material #13807'
+    2100010: 'Material #13568'
+    2100012: house01
+    2100014: ca_ns_liao002
+    2100016: 'Material #29'
+    2100018: 'Material #13375'
+    2100020: 'Material #30'
+    2100022: 'Material #32'
+    2100024: 'Material #35'
+    2100026: 'Material #37'
+    2100028: 'Material #13805'
+    2100030: 'Material #33'
+    2100032: 'Material #38'
+    2100034: 'Material #39'
+    2100036: 'Material #13809'
+    2100038: 'Material #42'
+    2100040: 'Material #40'
+    2100042: 'Material #41'
+    2100044: 'Material #31'
+    2100046: 'Material #47'
+    2100048: 'Material #48'
+    2100050: 'Material #51'
+    2100052: 'Material #52'
+    2100054: 'Material #13025'
+    2100056: 'Material #53'
+    2100058: 'Material #34'
+    2100060: 'Material #54'
+    2100062: 'Material #55'
+    2100064: 'Material #49'
+    2100066: 'Material #50'
+    2100068: 'Material #13026'
+    2100070: 'Material #45'
+    2100072: 'Material #43'
+    2100074: 'Material #44'
+    2100076: 'Material #13806'
+    2100078: 'Material #13811'
+    2100080: 'Material #13810'
+    2100082: 'Material #27'
+    2100084: 'Material #28'
+    2100086: 'Material #13812'
+    2100088: 'Material #13813'
+    2100090: 'Material #13814'
+    2100092: 'Material #13815'
+    2100094: 'Material #13816'
+    2300000: Box032
+    2300002: Box036
+    2300004: Box037
+    2300006: Box038
+    2300008: Box039
+    2300010: Box041
+    2300012: Box043
+    2300014: Box045
+    2300016: Box048
+    2300018: Box051
+    2300020: Box057
+    2300022: Box070
+    2300024: Box073
+    2300026: Box074
+    2300028: Box075
+    2300030: Box080
+    2300032: Box083
+    2300034: Box084
+    2300036: Box085
+    2300038: Box086
+    2300040: Box087
+    2300042: Box088
+    2300044: Box089
+    2300046: Box090
+    2300048: Box091
+    2300050: Box092
+    2300052: Box093
+    2300054: Box094
+    2300056: Box095
+    2300058: Box096
+    2300060: Box097
+    2300062: Box098
+    2300064: Box099
+    2300066: Box100
+    2300068: Box102
+    2300070: Box103
+    2300072: Box104
+    2300074: Box105
+    2300076: Box106
+    2300078: Box107
+    2300080: Box108
+    2300082: Box109
+    2300084: Box110
+    2300086: Box111
+    2300088: Box112
+    2300090: Box113
+    2300092: Box114
+    2300094: Box115
+    2300096: Box116
+    2300098: house006
+    2300100: house104
+    2300102: house124
+    2300104: house136
+    2300106: house140
+    2300108: house144
+    2300110: house153
+    2300112: house163
+    2300114: house167
+    2300116: house171
+    2300118: house183
+    2300120: house184
+    2300122: house185
+    2300124: house186
+    2300126: house187
+    2300128: house188
+    2300130: house189
+    2300132: house192
+    2300134: house193
+    2300136: house194
+    2300138: house195
+    2300140: house196
+    2300142: house198
+    2300144: house199
+    2300146: house201
+    2300148: house202
+    2300150: house205
+    2300152: house206
+    2300154: house207
+    2300156: house209
+    2300158: house214
+    2300160: house224
+    2300162: house226
+    2300164: house235
+    2300166: house252
+    2300168: house253
+    2300170: house255
+    2300172: house256
+    2300174: house259
+    2300176: house262
+    2300178: house263
+    2300180: house265
+    2300182: house266
+    2300184: house268
+    2300186: house269
+    2300188: house270
+    2300190: house273
+    2300192: house282
+    2300194: house294
+    2300196: house300
+    2300198: house314
+    2300200: house315
+    2300202: house316
+    2300204: house317
+    2300206: house318
+    2300208: house319
+    2300210: house320
+    2300212: house321
+    2300214: house322
+    2300216: house323
+    2300218: house324
+    2300220: house325
+    2300222: house326
+    2300224: house327
+    2300226: house328
+    2300228: house329
+    2300230: house330
+    2300232: house331
+    2300234: house336
+    2300236: house337
+    2300238: house338
+    2300240: house339
+    2300242: house340
+    2300244: house341
+    2300246: house342
+    2300248: house343
+    2300250: house344
+    2300252: house345
+    2300254: house346
+    2300256: house347
+    2300258: house348
+    2300260: house349
+    2300262: house350
+    2300264: house351
+    2300266: house352
+    2300268: house353
+    2300270: house354
+    2300272: house355
+    2300274: house356
+    2300276: house357
+    2300278: house358
+    2300280: house359
+    2300282: house360
+    2300284: house361
+    2300286: line002
+    2300288: line01
+    2300290: map001
+    2300292: map003
+    2300294: map004
+    2300296: map005
+    2300298: map006
+    2300300: map007
+    2300302: map008
+    2300304: map009
+    2300306: map011
+    2300308: map013
+    2300310: map014
+    2300312: map015
+    2300314: map016
+    2300316: map017
+    2300318: map018
+    2300320: map019
+    2300322: map020
+    2300324: map021
+    2300326: map022
+    2300328: map023
+    2300330: map024
+    2300332: map025
+    2300334: map026
+    2300336: map027
+    2300338: map028
+    2300340: map029
+    2300342: map030
+    2300344: map031
+    2300346: map032
+    2300348: map033
+    2300350: map034
+    2300352: map035
+    2300354: map036
+    2300356: map037
+    2300358: map038
+    2300360: map039
+    2300362: map040
+    2300364: map041
+    2300366: map042
+    2300368: map043
+    2300370: pam012
+    2300372: pam013
+    2300374: Sphere01:139
+    2300376: Sphere01:140
+    2300378: Sphere01:141
+    2300380: Sphere01:142
+    3300000: Box032
+    3300002: Box036
+    3300004: Box037
+    3300006: Box038
+    3300008: Box039
+    3300010: Box041
+    3300012: Box043
+    3300014: Box045
+    3300016: Box048
+    3300018: Box051
+    3300020: Box057
+    3300022: Box070
+    3300024: Box073
+    3300026: Box074
+    3300028: Box075
+    3300030: Box080
+    3300032: Box083
+    3300034: Box084
+    3300036: Box085
+    3300038: Box086
+    3300040: Box087
+    3300042: Box088
+    3300044: Box089
+    3300046: Box090
+    3300048: Box091
+    3300050: Box092
+    3300052: Box093
+    3300054: Box094
+    3300056: Box095
+    3300058: Box096
+    3300060: Box097
+    3300062: Box098
+    3300064: Box099
+    3300066: Box100
+    3300068: Box102
+    3300070: Box103
+    3300072: Box104
+    3300074: Box105
+    3300076: Box106
+    3300078: Box107
+    3300080: Box108
+    3300082: Box109
+    3300084: Box110
+    3300086: Box111
+    3300088: Box112
+    3300090: Box113
+    3300092: Box114
+    3300094: Box115
+    3300096: Box116
+    3300098: house006
+    3300100: house104
+    3300102: house124
+    3300104: house136
+    3300106: house140
+    3300108: house144
+    3300110: house153
+    3300112: house163
+    3300114: house167
+    3300116: house171
+    3300118: house183
+    3300120: house184
+    3300122: house185
+    3300124: house186
+    3300126: house187
+    3300128: house188
+    3300130: house189
+    3300132: house192
+    3300134: house193
+    3300136: house194
+    3300138: house195
+    3300140: house196
+    3300142: house198
+    3300144: house199
+    3300146: house201
+    3300148: house202
+    3300150: house205
+    3300152: house206
+    3300154: house207
+    3300156: house209
+    3300158: house214
+    3300160: house224
+    3300162: house226
+    3300164: house235
+    3300166: house252
+    3300168: house253
+    3300170: house255
+    3300172: house256
+    3300174: house259
+    3300176: house262
+    3300178: house263
+    3300180: house265
+    3300182: house266
+    3300184: house268
+    3300186: house269
+    3300188: house270
+    3300190: house273
+    3300192: house282
+    3300194: house294
+    3300196: house300
+    3300198: house314
+    3300200: house315
+    3300202: house316
+    3300204: house317
+    3300206: house318
+    3300208: house319
+    3300210: house320
+    3300212: house321
+    3300214: house322
+    3300216: house323
+    3300218: house324
+    3300220: house325
+    3300222: house326
+    3300224: house327
+    3300226: house328
+    3300228: house329
+    3300230: house330
+    3300232: house331
+    3300234: house336
+    3300236: house337
+    3300238: house338
+    3300240: house339
+    3300242: house340
+    3300244: house341
+    3300246: house342
+    3300248: house343
+    3300250: house344
+    3300252: house345
+    3300254: house346
+    3300256: house347
+    3300258: house348
+    3300260: house349
+    3300262: house350
+    3300264: house351
+    3300266: house352
+    3300268: house353
+    3300270: house354
+    3300272: house355
+    3300274: house356
+    3300276: house357
+    3300278: house358
+    3300280: house359
+    3300282: house360
+    3300284: house361
+    3300286: line002
+    3300288: line01
+    3300290: map001
+    3300292: map003
+    3300294: map004
+    3300296: map005
+    3300298: map006
+    3300300: map007
+    3300302: map008
+    3300304: map009
+    3300306: map011
+    3300308: map013
+    3300310: map014
+    3300312: map015
+    3300314: map016
+    3300316: map017
+    3300318: map018
+    3300320: map019
+    3300322: map020
+    3300324: map021
+    3300326: map022
+    3300328: map023
+    3300330: map024
+    3300332: map025
+    3300334: map026
+    3300336: map027
+    3300338: map028
+    3300340: map029
+    3300342: map030
+    3300344: map031
+    3300346: map032
+    3300348: map033
+    3300350: map034
+    3300352: map035
+    3300354: map036
+    3300356: map037
+    3300358: map038
+    3300360: map039
+    3300362: map040
+    3300364: map041
+    3300366: map042
+    3300368: map043
+    3300370: pam012
+    3300372: pam013
+    3300374: Sphere01:139
+    3300376: Sphere01:140
+    3300378: Sphere01:141
+    3300380: Sphere01:142
+    4300000: Sphere01:139
+    4300002: Sphere01:140
+    4300004: map001
+    4300006: Box051
+    4300008: map017
+    4300010: house262
+    4300012: house265
+    4300014: house263
+    4300016: Box085
+    4300018: house259
+    4300020: map003
+    4300022: Box057
+    4300024: house187
+    4300026: house188
+    4300028: map007
+    4300030: Box045
+    4300032: house006
+    4300034: map020
+    4300036: Box091
+    4300038: house315
+    4300040: map021
+    4300042: map022
+    4300044: line01
+    4300046: Box038
+    4300048: map023
+    4300050: map018
+    4300052: house266
+    4300054: house273
+    4300056: Box086
+    4300058: house270
+    4300060: house269
+    4300062: house268
+    4300064: Box088
+    4300066: Box087
+    4300068: map006
+    4300070: house253
+    4300072: house256
+    4300074: house255
+    4300076: Box084
+    4300078: house252
+    4300080: Box037
+    4300082: Box092
+    4300084: Box093
+    4300086: house316
+    4300088: house317
+    4300090: house318
+    4300092: house319
+    4300094: map024
+    4300096: map025
+    4300098: house320
+    4300100: map026
+    4300102: map004
+    4300104: Box039
+    4300106: map014
+    4300108: house104
+    4300110: house124
+    4300112: house136
+    4300114: Box032
+    4300116: house140
+    4300118: map027
+    4300120: Box094
+    4300122: house321
+    4300124: map008
+    4300126: house186
+    4300128: Box043
+    4300130: map028
+    4300132: house322
+    4300134: map029
+    4300136: Box095
+    4300138: Box096
+    4300140: Box097
+    4300142: house323
+    4300144: house324
+    4300146: house325
+    4300148: house326
+    4300150: house327
+    4300152: map030
+    4300154: map011
+    4300156: Box036
+    4300158: house189
+    4300160: house193
+    4300162: house192
+    4300164: map031
+    4300166: Box098
+    4300168: map032
+    4300170: Box099
+    4300172: Box100
+    4300174: house328
+    4300176: house329
+    4300178: house330
+    4300180: house331
+    4300182: map033
+    4300184: pam012
+    4300186: house144
+    4300188: house153
+    4300190: house163
+    4300192: house167
+    4300194: Box073
+    4300196: map015
+    4300198: Box074
+    4300200: Box075
+    4300202: house183
+    4300204: house184
+    4300206: house185
+    4300208: house171
+    4300210: Box080
+    4300212: map034
+    4300214: Box102
+    4300216: Box103
+    4300218: Box104
+    4300220: house336
+    4300222: house337
+    4300224: house338
+    4300226: house339
+    4300228: map035
+    4300230: Box105
+    4300232: line002
+    4300234: Box106
+    4300236: map016
+    4300238: house207
+    4300240: house209
+    4300242: Box083
+    4300244: house206
+    4300246: house205
+    4300248: pam013
+    4300250: Box107
+    4300252: house340
+    4300254: house341
+    4300256: house342
+    4300258: house343
+    4300260: map036
+    4300262: Box108
+    4300264: map037
+    4300266: house344
+    4300268: Box109
+    4300270: house345
+    4300272: house346
+    4300274: map038
+    4300276: map019
+    4300278: house282
+    4300280: house300
+    4300282: house294
+    4300284: Box090
+    4300286: Box089
+    4300288: house314
+    4300290: map039
+    4300292: Box110
+    4300294: Box111
+    4300296: house347
+    4300298: house348
+    4300300: house349
+    4300302: house350
+    4300304: map005
+    4300306: house196
+    4300308: house195
+    4300310: house194
+    4300312: Box041
+    4300314: Box112
+    4300316: house351
+    4300318: house352
+    4300320: map040
+    4300322: map041
+    4300324: house353
+    4300326: map042
+    4300328: Box113
+    4300330: house354
+    4300332: house355
+    4300334: house356
+    4300336: house357
+    4300338: map043
+    4300340: Box114
+    4300342: Box115
+    4300344: Box116
+    4300346: house358
+    4300348: house359
+    4300350: house360
+    4300352: house361
+    4300354: map013
+    4300356: house214
+    4300358: house224
+    4300360: Box070
+    4300362: house226
+    4300364: house235
+    4300366: Sphere01:141
+    4300368: Sphere01:142
+    4300370: map009
+    4300372: Box048
+    4300374: house201
+    4300376: house198
+    4300378: house199
+    4300380: house202
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #13025'
+    second: {fileID: 2100000, guid: 4551e701d40b5ab43b7bc581918af47e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #13026'
+    second: {fileID: 2100000, guid: a7381125d6d87c249bbaebde5d644643, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #13375'
+    second: {fileID: 2100000, guid: 389441db09f25764e987829323df0f73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #13568'
+    second: {fileID: 2100000, guid: b0213bc59cfdea24c96a97362b54bba2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #13805'
+    second: {fileID: 2100000, guid: 944a4cccc550837459f081216b0741c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #13806'
+    second: {fileID: 2100000, guid: d72b25521d9e0614cad7274cf22457e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #13807'
+    second: {fileID: 2100000, guid: b84b48e9c2082b840babd67817119399, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #13809'
+    second: {fileID: 2100000, guid: 050bc96076aa177498eca39f609e9782, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #13810'
+    second: {fileID: 2100000, guid: 10743bf941fc9654db1480b92b2f2384, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #13811'
+    second: {fileID: 2100000, guid: 75e4a1fcf3a0cc64cba0f747326ccac2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #13812'
+    second: {fileID: 2100000, guid: 6148cc9b9cca2c24da6e1308eceb029a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #13813'
+    second: {fileID: 2100000, guid: 75e4a1fcf3a0cc64cba0f747326ccac2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #13814'
+    second: {fileID: 2100000, guid: 0468f3c1136770145a4ddf425e21faca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #13815'
+    second: {fileID: 2100000, guid: 75e4a1fcf3a0cc64cba0f747326ccac2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #13816'
+    second: {fileID: 2100000, guid: 75e4a1fcf3a0cc64cba0f747326ccac2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #13818'
+    second: {fileID: 2100000, guid: e4fd7773847e71944b183d5e28ee926f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #13819'
+    second: {fileID: 2100000, guid: 27a75536ee4aaab4bb9c7171e6a106fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #25'
+    second: {fileID: 2100000, guid: f337ee4aff7d3f944a8dcb6f5bb9b8cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #26'
+    second: {fileID: 2100000, guid: 75e4a1fcf3a0cc64cba0f747326ccac2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #27'
+    second: {fileID: 2100000, guid: 75e4a1fcf3a0cc64cba0f747326ccac2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #28'
+    second: {fileID: 2100000, guid: 75e4a1fcf3a0cc64cba0f747326ccac2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #29'
+    second: {fileID: 2100000, guid: 75e4a1fcf3a0cc64cba0f747326ccac2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #30'
+    second: {fileID: 2100000, guid: eb96597ffc0be134994d830ae5c94b15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #31'
+    second: {fileID: 2100000, guid: 1d2c67444e86b504ea0ee3d3d60d1001, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #32'
+    second: {fileID: 2100000, guid: 75e4a1fcf3a0cc64cba0f747326ccac2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #33'
+    second: {fileID: 2100000, guid: 89c16aa0102bab448980c2ae5b3b58fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #34'
+    second: {fileID: 2100000, guid: f57bdf641b5687e4ab5c59ec4c183a30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #35'
+    second: {fileID: 2100000, guid: 6a50b9831921a614e948805e964fe8b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #37'
+    second: {fileID: 2100000, guid: 75e4a1fcf3a0cc64cba0f747326ccac2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #38'
+    second: {fileID: 2100000, guid: 70ebdc583849be54ab99a1a53435935f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #39'
+    second: {fileID: 2100000, guid: 75e4a1fcf3a0cc64cba0f747326ccac2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #40'
+    second: {fileID: 2100000, guid: 75e4a1fcf3a0cc64cba0f747326ccac2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #41'
+    second: {fileID: 2100000, guid: 75e4a1fcf3a0cc64cba0f747326ccac2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #42'
+    second: {fileID: 2100000, guid: 75e4a1fcf3a0cc64cba0f747326ccac2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #43'
+    second: {fileID: 2100000, guid: 75e4a1fcf3a0cc64cba0f747326ccac2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #44'
+    second: {fileID: 2100000, guid: 75e4a1fcf3a0cc64cba0f747326ccac2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #45'
+    second: {fileID: 2100000, guid: 75e4a1fcf3a0cc64cba0f747326ccac2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #47'
+    second: {fileID: 2100000, guid: 75e4a1fcf3a0cc64cba0f747326ccac2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #48'
+    second: {fileID: 2100000, guid: 75e4a1fcf3a0cc64cba0f747326ccac2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #49'
+    second: {fileID: 2100000, guid: 790c26c9726283e4aaa6bc7d2d4583e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #50'
+    second: {fileID: 2100000, guid: 75e4a1fcf3a0cc64cba0f747326ccac2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #51'
+    second: {fileID: 2100000, guid: 5d937b7ed1a0bf84284c1c7ab2883332, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #52'
+    second: {fileID: 2100000, guid: 75e4a1fcf3a0cc64cba0f747326ccac2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #53'
+    second: {fileID: 2100000, guid: 75e4a1fcf3a0cc64cba0f747326ccac2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #54'
+    second: {fileID: 2100000, guid: 5ab545abd9141a5459a2dd11fdf8e7fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #55'
+    second: {fileID: 2100000, guid: 75e4a1fcf3a0cc64cba0f747326ccac2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_ns_liao002
+    second: {fileID: 2100000, guid: 3cadec49eeb315e44ba7ba6b9f2b4fcf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: house01
+    second: {fileID: 2100000, guid: 83c2a00d302fa9a47877e0634e0e8726, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

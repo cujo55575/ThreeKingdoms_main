@@ -1,0 +1,381 @@
+fileFormatVersion: 2
+guid: e4fe04b8b3938e346ba6e73d76f63db7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: B_R_Foot
+    100002: B_R_Foot1
+    100004: B_R_Tight_1
+    100006: B_R_Tight_2
+    100008: B_R_Tight_3
+    100010: B_R_Tight_4
+    100012: B_R_Toe
+    100014: B_R_Toe1
+    100016: B_R_UpLeg
+    100018: B_R_UpLeg1
+    100020: BaseBone
+    100022: F_R_Foot
+    100024: F_R_Foot1
+    100026: F_R_Shoulder
+    100028: F_R_Shoulder1
+    100030: F_R_Tight
+    100032: F_R_Tight1
+    100034: F_R_Toe
+    100036: F_R_Toe1
+    100038: F_R_UpLeg
+    100040: F_R_UpLeg1
+    100042: Geo
+    100044: Head
+    100046: Head_1
+    100048: Hero
+    100050: Horse
+    100052: joint1
+    100054: joint10_r
+    100056: joint11_l
+    100058: joint12
+    100060: joint13_r
+    100062: joint14_r
+    100064: joint15_r
+    100066: joint16
+    100068: joint17
+    100070: joint18
+    100072: joint19
+    100074: joint20
+    100076: joint2_t
+    100078: joint3
+    100080: joint3 1
+    100082: joint3_l
+    100084: joint3_l 1
+    100086: joint3_l 2
+    100088: joint3_l1
+    100090: joint3_l2
+    100092: joint3_l3
+    100094: joint3_r
+    100096: joint3_r 1
+    100098: joint3_r1
+    100100: joint3_r2
+    100102: joint3_t
+    100104: joint4
+    100106: joint4 1
+    100108: joint4 10
+    100110: joint4 11
+    100112: joint4 2
+    100114: joint4 3
+    100116: joint4 4
+    100118: joint4 5
+    100120: joint4 6
+    100122: joint4 7
+    100124: joint4 8
+    100126: joint4 9
+    100128: joint4_l
+    100130: joint4_t
+    100132: joint5
+    100134: joint6_l
+    100136: joint7_l
+    100138: joint8
+    100140: joint9_r
+    100142: Joints
+    100144: L_Ear
+    100146: L_Ear_1
+    100148: Neck_1
+    100150: Neck_2
+    100152: Neck_3
+    100154: New_Horse
+    100156: nurbsCircle15
+    100158: QuickRigCharacter1_Head
+    100160: QuickRigCharacter1_Hips
+    100162: QuickRigCharacter1_LeftArm
+    100164: QuickRigCharacter1_LeftFoot
+    100166: QuickRigCharacter1_LeftForeArm
+    100168: QuickRigCharacter1_LeftHand
+    100170: QuickRigCharacter1_LeftLeg
+    100172: QuickRigCharacter1_LeftShoulder
+    100174: QuickRigCharacter1_LeftToeBase
+    100176: QuickRigCharacter1_LeftUpLeg
+    100178: QuickRigCharacter1_Neck
+    100180: QuickRigCharacter1_Reference
+    100182: QuickRigCharacter1_RightArm
+    100184: QuickRigCharacter1_RightFoot
+    100186: QuickRigCharacter1_RightForeArm
+    100188: QuickRigCharacter1_RightHand
+    100190: QuickRigCharacter1_RightLeg
+    100192: QuickRigCharacter1_RightShoulder
+    100194: QuickRigCharacter1_RightToeBase
+    100196: QuickRigCharacter1_RightUpLeg
+    100198: QuickRigCharacter1_Spine
+    100200: QuickRigCharacter1_Spine1
+    100202: QuickRigCharacter1_Spine2
+    100204: R_Ear
+    100206: R_Ear_1
+    100208: rope_01
+    100210: rope_02
+    100212: rope_03
+    100214: rope_04
+    100216: rope_05
+    100218: rope_06
+    100220: //RootNode
+    100222: Spear
+    100224: Spear_n
+    100226: spine
+    100228: spine_1
+    100230: spine_2
+    100232: spine_3
+    100234: Tail_1
+    100236: Tail_2
+    100238: Tail_3
+    100240: Tail_4
+    100242: Tail_5
+    100244: Tail_6
+    100246: Tail_7
+    100248: Tail_8
+    400000: B_R_Foot
+    400002: B_R_Foot1
+    400004: B_R_Tight_1
+    400006: B_R_Tight_2
+    400008: B_R_Tight_3
+    400010: B_R_Tight_4
+    400012: B_R_Toe
+    400014: B_R_Toe1
+    400016: B_R_UpLeg
+    400018: B_R_UpLeg1
+    400020: BaseBone
+    400022: F_R_Foot
+    400024: F_R_Foot1
+    400026: F_R_Shoulder
+    400028: F_R_Shoulder1
+    400030: F_R_Tight
+    400032: F_R_Tight1
+    400034: F_R_Toe
+    400036: F_R_Toe1
+    400038: F_R_UpLeg
+    400040: F_R_UpLeg1
+    400042: Geo
+    400044: Head
+    400046: Head_1
+    400048: Hero
+    400050: Horse
+    400052: joint1
+    400054: joint10_r
+    400056: joint11_l
+    400058: joint12
+    400060: joint13_r
+    400062: joint14_r
+    400064: joint15_r
+    400066: joint16
+    400068: joint17
+    400070: joint18
+    400072: joint19
+    400074: joint20
+    400076: joint2_t
+    400078: joint3
+    400080: joint3 1
+    400082: joint3_l
+    400084: joint3_l 1
+    400086: joint3_l 2
+    400088: joint3_l1
+    400090: joint3_l2
+    400092: joint3_l3
+    400094: joint3_r
+    400096: joint3_r 1
+    400098: joint3_r1
+    400100: joint3_r2
+    400102: joint3_t
+    400104: joint4
+    400106: joint4 1
+    400108: joint4 10
+    400110: joint4 11
+    400112: joint4 2
+    400114: joint4 3
+    400116: joint4 4
+    400118: joint4 5
+    400120: joint4 6
+    400122: joint4 7
+    400124: joint4 8
+    400126: joint4 9
+    400128: joint4_l
+    400130: joint4_t
+    400132: joint5
+    400134: joint6_l
+    400136: joint7_l
+    400138: joint8
+    400140: joint9_r
+    400142: Joints
+    400144: L_Ear
+    400146: L_Ear_1
+    400148: Neck_1
+    400150: Neck_2
+    400152: Neck_3
+    400154: New_Horse
+    400156: nurbsCircle15
+    400158: QuickRigCharacter1_Head
+    400160: QuickRigCharacter1_Hips
+    400162: QuickRigCharacter1_LeftArm
+    400164: QuickRigCharacter1_LeftFoot
+    400166: QuickRigCharacter1_LeftForeArm
+    400168: QuickRigCharacter1_LeftHand
+    400170: QuickRigCharacter1_LeftLeg
+    400172: QuickRigCharacter1_LeftShoulder
+    400174: QuickRigCharacter1_LeftToeBase
+    400176: QuickRigCharacter1_LeftUpLeg
+    400178: QuickRigCharacter1_Neck
+    400180: QuickRigCharacter1_Reference
+    400182: QuickRigCharacter1_RightArm
+    400184: QuickRigCharacter1_RightFoot
+    400186: QuickRigCharacter1_RightForeArm
+    400188: QuickRigCharacter1_RightHand
+    400190: QuickRigCharacter1_RightLeg
+    400192: QuickRigCharacter1_RightShoulder
+    400194: QuickRigCharacter1_RightToeBase
+    400196: QuickRigCharacter1_RightUpLeg
+    400198: QuickRigCharacter1_Spine
+    400200: QuickRigCharacter1_Spine1
+    400202: QuickRigCharacter1_Spine2
+    400204: R_Ear
+    400206: R_Ear_1
+    400208: rope_01
+    400210: rope_02
+    400212: rope_03
+    400214: rope_04
+    400216: rope_05
+    400218: rope_06
+    400220: //RootNode
+    400222: Spear
+    400224: Spear_n
+    400226: spine
+    400228: spine_1
+    400230: spine_2
+    400232: spine_3
+    400234: Tail_1
+    400236: Tail_2
+    400238: Tail_3
+    400240: Tail_4
+    400242: Tail_5
+    400244: Tail_6
+    400246: Tail_7
+    400248: Tail_8
+    2100000: Spear1
+    2100002: Horse_Tex
+    2100004: Hero1
+    2100006: Pike
+    4300000: Spear
+    4300002: New_Horse
+    4300004: Hero
+    7400000: HeavyRider_Run
+    9500000: //RootNode
+    13700000: Hero
+    13700002: New_Horse
+    13700004: Spear
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: HeavyRider_Run
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 44
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

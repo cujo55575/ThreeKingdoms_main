@@ -1,0 +1,4 @@
+﻿#define CROSS_PLATFORM_INPUT
+#define MOBILE_INPUT
+#define DEBUG_TOOL
+#define OFFLINE_DATA
